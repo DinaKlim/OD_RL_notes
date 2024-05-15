@@ -14,7 +14,7 @@
 
 [Pohl, W. L. (2022). Metallogenic models as the key to successful exploration—a review and trends. Mineral economics, 35(3), 373-408.](https://link.springer.com/article/10.1007/s13563-022-00325-3)
 
-[Chelle-Michou, C., & Rottier, B. (2021). Transcrustal magmatic controls on the size of porphyry Cu systems: State of knowledge and open questions.](https://www.research-collection.ethz.ch/handle/20.500.11850/527320)
+[**Chelle-Michou, C.**, & Rottier, B. (2021). Transcrustal magmatic controls on the size of porphyry Cu systems: State of knowledge and open questions.](https://www.research-collection.ethz.ch/handle/20.500.11850/527320)
 
 [Chelle-Michou, C., McCarthy, A., Moyen, J. F., Cawood, P. A., & Capitanio, F. A. (2022). Make subductions diverse again. Earth-Science Reviews, 226, 103966.](https://www.research-collection.ethz.ch/handle/20.500.11850/534157)
 
