@@ -1,4 +1,4 @@
-## Open access textbooks and overview papers
+## Open access textbooks
 
 [Kesler, S. E., Simon, A. C., & Simon, A. F. (2015). Mineral resources, economics and the environment.](https://deepblue.lib.umich.edu/handle/2027.42/192747)
 
@@ -8,7 +8,7 @@
 ## Course materials
 [Introduction to ore microscopy (University of Geneva)](https://www.unige.ch/sciences/terre/research/Groups/mineral_resources/opaques/opaques_menu.php)
 
-## Some papers
+## Articles and PhD theses
 
 [Sillitoe, R. (2024) Metallogeny and Mineral Exploration – Some Personal Reminiscences](https://www.geochemicalperspectives.org/online/v13n1/)
 
