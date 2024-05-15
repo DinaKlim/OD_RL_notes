@@ -15,6 +15,7 @@ In January 1972 the first reports of sulfide ore were published. The occurrences
 
 **Thin section description**
 
+![Aggeneys](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/01_Aggeneys/1%20Aggeneys.jpg)
 7 minerals are identified in the thin section, listed in approximate order of their abundance: galena, pyrite, marcasite, tennantite, sphalerite, and pyrrhotite. Chalcopyrite is only present in trace amounts. 
 
 The main component is **galena**, easily recognizable by the triangular cleavage fractures. All other minerals are included in galena.
