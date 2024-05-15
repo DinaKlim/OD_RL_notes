@@ -32,5 +32,31 @@
 
 [**Heinrich, C. A. (2018).** Fluid evolution and selective metal enrichment in magmatic-hydrothermal Cu-Au ore systems](https://www.research-collection.ethz.ch/handle/20.500.11850/294258)
 
-[Heinrich, C. A., & Candela, P. A. (2014). Fluids and ore formation in the Earth's crust. In Treatise on Geochemistry (Second Edition) (Vol. 13, pp. 1-28). Elsevier.](https://www.research-collection.ethz.ch/handle/20.500.11850/95425)
+[**Heinrich, C. A.**, & Candela, P. A. (2014). Fluids and ore formation in the Earth's crust. In Treatise on Geochemistry (Second Edition) (Vol. 13, pp. 1-28). Elsevier.](https://www.research-collection.ethz.ch/handle/20.500.11850/95425)
+
+## Excursion guides
+
+[Ore deposits, magmatism and Precambrian geology of Finland](https://www.research-collection.ethz.ch/handle/20.500.11850/88516)
+
+[Field trip guide to the Mineral Deposits of Poland, 16 June - 25 June 2018](https://www.research-collection.ethz.ch/handle/20.500.11850/397015)
+
+[Ore Deposits and Mining in Ireland](https://www.research-collection.ethz.ch/handle/20.500.11850/121313)
+
+[Canada Student Field Excursion, July 25 - August 10, 2019](https://www.research-collection.ethz.ch/handle/20.500.11850/396985)
+
+[Taiwan PhD Excursion](https://www.research-collection.ethz.ch/handle/20.500.11850/327601)
+
+## Geohug and Ore Deposits Hub talks
+
+[Mineral systems - David Groves](https://youtu.be/S3yBKxfCml8?si=q9NEcS-UiQ959-FF)
+
+[Mineral Systems: Key to Exploration Targeting – Campbell McCuaig](https://youtu.be/b2auRcpvgSA?si=LpsiE_DlOL2tdtE3)
+
+[Exploration geochemistry – Scott Halley](https://youtu.be/qw1Adlinq0M?si=0HVLGfI3IjBkSqoK)
+
+[Mt Isa story](https://youtu.be/xYcxKtFId_k?si=vPuIu7aE8ZhvNEIC)
+
+[VMS debate – syngenetic vs epigenetic, Carl Brauhart vs Jun Cowan](https://youtu.be/b2xOgmETSxs?si=f1H3s5J42VkGGTxo)
+
+[Geophysical Response and Geological Reality for Porphyry Cu (Mo-Au) Deposit – Richard Tosdal](https://youtu.be/OoPy_e97rBo?si=fhoddBlMgpKAdGzY)
 
