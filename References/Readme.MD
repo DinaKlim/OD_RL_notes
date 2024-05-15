@@ -54,7 +54,7 @@
 
 [Exploration geochemistry – Scott Halley](https://youtu.be/qw1Adlinq0M?si=0HVLGfI3IjBkSqoK)
 
-[Mt Isa story](https://youtu.be/xYcxKtFId_k?si=vPuIu7aE8ZhvNEIC)
+[Mt Isa story - Richard Lilly](https://youtu.be/xYcxKtFId_k?si=vPuIu7aE8ZhvNEIC)
 
 [VMS debate – syngenetic vs epigenetic, Carl Brauhart vs Jun Cowan](https://youtu.be/b2xOgmETSxs?si=f1H3s5J42VkGGTxo)
 
