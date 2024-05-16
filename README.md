@@ -11,7 +11,7 @@ Additionally, I would like to test some ideas:
 
 * To what degree can thin section descriptions be automated? Would it help students if they could extract quantitative features like color, grain size and shape and their distribution and focus on texture description and genetic interpretation? 
 
-* Can I run some basic NPL code to extract key concepts from published literature and the lecture notes? Can these be linked to thin section descriptions and assign probabilities to possible interpretation based on textural criteria? 
+* Can I run some basic NLP code to extract key concepts from published literature and the lecture notes? Can these be linked to thin section descriptions and assign probabilities to possible interpretation based on textural criteria? 
 
 **Disclaimer**: any of my notes, translations or interpretations presented here may be incorrect. 
 
