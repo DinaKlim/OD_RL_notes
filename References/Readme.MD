@@ -63,5 +63,7 @@
 
 [VMS debate – syngenetic vs epigenetic, Carl Brauhart vs Jun Cowan](https://youtu.be/b2xOgmETSxs?si=f1H3s5J42VkGGTxo)
 
+[You’re so vein - Vein system analysis in exploration and mining - Brett Davis](https://www.youtube.com/watch?v=tWVS5cIrVoI&ab_channel=geohug)
+
 [Geophysical Response and Geological Reality for Porphyry Cu (Mo-Au) Deposit – Richard Tosdal](https://youtu.be/OoPy_e97rBo?si=fhoddBlMgpKAdGzY)
 
