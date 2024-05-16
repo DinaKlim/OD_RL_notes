@@ -10,6 +10,7 @@
 
 ## Atlases
 [The Veining Bible by Brett Davis](https://www.linkedin.com/posts/brett-davis-9a264513_the-veining-bible-activity-7019290183858606080-fkEz?utm_source=share&utm_medium=member_desktop)
+
 [High sulphidation, vuggy silica – textural atlas by John Menzies](http://cmi-capital.com/blog/high-sulphidation-vuggy-silica-a-compendium-of-examples-from-around-the-world/)
 
 ## Articles and PhD theses
