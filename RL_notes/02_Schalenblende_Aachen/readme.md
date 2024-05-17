@@ -1,11 +1,15 @@
 ## Schalenblende / Aachen (historic notes)
+
 **Textural Description**
+
 The ore is banded and consists of the following parts:
 
 * Perpendicular to the direction of bedding, radiant **marcasite** with partially idiomorphic surfaces in the growth direction.
 * **Gel-pyrite**; mostly as a rim around marcasite. Contains inclusions of hypidiomorphic marcasite and fine-grained anisotropic material.
 * **Schalenblende sphalerite**; contains hypidiomorphic and xenomorphic inclusions of pyrite and galena. It becomes finely striated at the edge and over into the gangue material.
 * **Gangue**; shows as banded components of different colors under crossed polars.
+  
+![Aachen Schalenblende](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/02_Schalenblende_Aachen/2%20Aachen%20Schalenblende.jpg)
 
 **Phase Composition**
 
@@ -21,7 +25,8 @@ According to literature: sphalerite + wurzite
 
 (E) Gangue: Color: without polarizer: uniformly gray-blue; with polarizer: white, ochre, brown. 
 VHN: 250
-According to literature, can occur: calcite, dolomite, ankerite, siderite.
+
+According to literature, the following gangue minerals can occur: calcite, dolomite, ankerite, siderite.
 
 **Ore Deposit Formation**
 
@@ -31,4 +36,5 @@ The mountain range is intersected by faults running perpendicular to the strike 
 **Literature**
 
 Gussone, R., Die Blei-Zinkerz-Lagerstätten der Gegend von Aachen. Special re-print from "Der Aufschluß", Heft "Eifel", S. 19-25
+
 Schneiderhöhn, H., Erzlagerstätten, 1962, Gustav Fischer Verlag · Stuttgart
