@@ -1,5 +1,9 @@
 # Lecture notes and open access resources
-<img src="https://github.com/DinaKlim/OD_RL_notes/blob/main/Trixie%201.jpg" style="width: 30%; height: auto;">
+
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://github.com/DinaKlim/OD_RL_notes/blob/main/Trixie%201.jpg" style="width: 51%; height: auto; margin-right: 2%;">
+    <img src="https://github.com/DinaKlim/OD_RL_notes/blob/main/old_sources.jpg" style="width: 29%; height: auto;">
+</div>
 
 [Some references to open access resources: books, articles, PhD theses, Geohug and Ore Deposits Hub talks](https://github.com/DinaKlim/OD_RL_notes/tree/main/References)
 
