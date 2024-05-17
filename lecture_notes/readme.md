@@ -8,5 +8,5 @@ Emphasis on observation, documentation, key concepts and investigation methods.
 
 **Extreme enrichment is the key to ore deposit formation.** 
 
-**Lecture 1.** A Brief Overview of Australia's Geological History and Ore Deposits.
+[**Lecture 1.** A Brief Overview of Australia's Geological History and Ore Deposits.](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%201.md)
 
