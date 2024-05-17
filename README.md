@@ -21,6 +21,6 @@ Additionally, I would like to test some ideas:
 
 I express my sincere gratitude to everyone who shares their knowledge and to the lecturers that taught the Ore deposits and Reflected light petrography courses at the ETH, where I had the privilege of first taking the courses and then assisting them – links to their open access papers are in the [References](https://github.com/DinaKlim/OD_RL_notes/tree/main/References) section, with the lecturers’ names in bold. 
 
-[Information on the current edition of the course is here](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023W&ansicht=ALLE&lerneinheitId=172259&lang=en)
+[Information on the current edition of the Ore Deposits course is here](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023W&ansicht=ALLE&lerneinheitId=172259&lang=en)
 
 Anyone in Zurich can register at the ETH as an auditor and visit the course with the permission of the lecturer. 
