@@ -23,13 +23,13 @@ Pentlandite (Fe, Ni)S
 
 The grinding hardness of pentlandite is medium; it is harder than chalcopyrite and slightly softer than pyrrhotite. The cleavage parallel to (111) is sometimes quite visible in polished sections; the formation of mackinawite follows it sporadically. Pentlandite is light cream-colored with a barely noticeable brown tint. The reflectance is quite high. Pentlandite is isotropic and does not appear entirely dark under  crossed nicols. The Fe:Ni ratio is in most cases between 1:1 and 10:11; excess Fe separates as mackinawite.
 
-Chalcopyrite CuFeS2
+Chalcopyrite CuFeS<sub>2</sub>
 
 Chalcopyrite is medium hard. Its grinding hardness lies between galena and pyrrhotite. Chalcopyrite appears light yellow to sulfur yellow in polished sections; the reflectance of chalcopyrite is high. Reflection pleochroism is not visible; the anisotropic effects under crossed nicols are very weakly colored. In oil, they are faint but distinctly recognizable.
 
 "Chalcopyrite-like Mineral"
 
-A mineral intergrown with pentlandite could not be identified with certainty. Microprobe examinations indicated that it is also a Cu-Fe sulfide, but its Cu:Fe ratio is different from that of chalcopyrite, as comparison measurements against chalcopyrite showed. The Cu:Fe ratio in this mineral is about 1:4; in chalcopyrite, it varies between Cu1.05Fe0.95S2  and Cu1.02Fe0.98S2, i.e., the mineral is richer in iron and poorer in copper than chalcopyrite.
+A mineral intergrown with pentlandite could not be identified with certainty. Microprobe examinations indicated that it is also a Cu-Fe sulfide, but its Cu:Fe ratio is different from that of chalcopyrite, as comparison measurements against chalcopyrite showed. The Cu:Fe ratio in this mineral is about 1:4; in chalcopyrite, it varies between Cu<sub>1.05</sub>Fe<sub>0.95</sub>S<sub>2</sub>  and Cu<sub>1.02</sub>Fe<sub>0.98</sub>S<sub>2</sub>, i.e., the mineral is richer in iron and poorer in copper than chalcopyrite.
 
 The mineral is harder than pentlandite, but whether it is harder or softer than chalcopyrite could not be measured. The color in reflected light is cream with a slight shade of green; the reflectance is approximately the same as that of pentlandite. The mineral is distinctly anisotropic (light brown → intense blue). In oil, the anisotropy is even more pronounced, and the color difference between pentlandite and the mineral becomes more apparent.
 
@@ -38,7 +38,7 @@ Mackinawite FeS
 Mackinawite has medium-high grinding hardness. The color is light cream-white; compared to pentlandite, it is slightly darker, and compared to chalcopyrite, it is somewhat more pink. Due to its high reflection pleochroism (light cream-white → light gray with a violet tinge) and its very high anisotropy (almost pure white → dull blue-gray), it is easy to identify.
 
 Mackinawite is a decomposition product of unstable high-temperature pyrrhotite and pentlandite. It appears in completely irregular and patchy exsolution bodies.
-Ilmenite FeTiO3
+Ilmenite FeTiO<sub>3</sub>
 Ilmenite is characterized by its very high grinding hardness. Its color in polished sections is gray-white with a brownish tint; the reflectance is moderate and reflection pleochroism is very weak in air but clearly observable in oil. Anisotropic effects are already noticeable in air (pink-brown → dark brown), and they are vivid in oil. Some ilmenites show twin lamellae. Relatively often, ilmenites with leukoxene rims can be found.
 
 Sphalerite ZnS
@@ -48,7 +48,7 @@ The grinding hardness of sphalerite lies between that of chalcopyrite and pyrrho
 If no internal reflections are present, a distinction from magnetite, which is only minimally darker, is possible. Since the grains occur only sporadically in the matrix and only a few are large, a distinction between sphalerite and magnetite is not possible under a light microscope.
 
 The microprobe examination of two narrow, approximately 200µm long pure white minerals found in only one section showed that they are Pt minerals. Another pure white but isotropic mineral, initially identified as sperrylite, was determined to be galena under the microprobe.
-Moncheite PtTe2
+Moncheite PtTe<sub>2</sub>
  
 
 Moncheite is softer (?) than pentlandite. The color is white; pleochroism is only observable in oil (white → delicate light gray). The anisotropy is quite noticeable from light beige → dark brown.
