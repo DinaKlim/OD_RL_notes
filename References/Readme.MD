@@ -13,6 +13,8 @@
 
 [High sulphidation, vuggy silica – textural atlas by John Menzies](http://cmi-capital.com/blog/high-sulphidation-vuggy-silica-a-compendium-of-examples-from-around-the-world/)
 
+[North West Mineral Province Deposit Atlas - Australia](https://geoscience.data.qld.gov.au/dataset/ds000036)
+
 ## Articles and PhD theses
 
 [Sillitoe, R. (2024) Metallogeny and Mineral Exploration – Some Personal Reminiscences](https://www.geochemicalperspectives.org/online/v13n1/)
