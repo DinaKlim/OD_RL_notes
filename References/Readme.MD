@@ -8,6 +8,8 @@
 ## Course materials
 [Introduction to ore microscopy (University of Geneva)](https://www.unige.ch/sciences/terre/research/Groups/mineral_resources/opaques/opaques_menu.php)
 
+[Jack Voncken's notes and resources (Delft University of Technology)](https://github.com/DinaKlim/Jack_Voncken/blob/main/Ore_microscopy_samples/readme.md)
+
 ## Atlases
 [The Veining Bible by Brett Davis](https://www.linkedin.com/posts/brett-davis-9a264513_the-veining-bible-activity-7019290183858606080-fkEz?utm_source=share&utm_medium=member_desktop)
 
