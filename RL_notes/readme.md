@@ -9,3 +9,5 @@
 [03_Bushveld](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/03_Bushveld/readme.md)
 
 [04_Belvedere](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/04_Belvedere/readme.md)
+
+[05_Bleikvassli](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/05_Bleikvassli/readme.md)
