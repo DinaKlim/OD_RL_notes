@@ -8,8 +8,11 @@ Garnet mica schists are former pelites that, due to the occurrence of basic acce
 Typical minerals are: kyanite, garnet, epidote, zoisite group, muscovite, biotite, quartz, and zoned plagioclase.
 The polysulfide deposit of Bleikvassli is intercalated into the garnet mica schist formation together with quartzitic and graphitic horizons.
 The contact between the country rock and the ore body is distinctly marked as a sharp boundary. The ore body, consisting of massive sulfide ore, essentially comprises interlinked and branched flat plates or lenses. The average extent of the ore lenses along the dip direction is 20-25 meters, and the thickness of individual ore lenses is approximately 10-15 meters.
+
 Genesis: For the genesis of the Bleikvassli deposit, two models are discussed (Vokes, 1966):
+
 a) A syntectonic, epigenetic deposition of sulfides
+
 b) A pre-metamorphic, syngenetic, or diagenetic deposition of sulfides
 
 **Description of the thin section**
@@ -21,16 +24,19 @@ Ores found in the polished sections:
 
 a) Main components
 
-Py: Pyrite, FeS₂, partly idiomorph = 30%
+Py: Pyrite, FeS<sub>2</sub>, partly idiomorph = 30%
+
 sph: Sphalerite (zinc blende), ZnS, xenomorph = 25%
-cpy: Chalcopyrite (copper pyrite), CuFeS₂, xenomorph = 10%
-po: Pyrrhotite (magnetic pyrite), Fe₁₋ₓS, xenomorph = 10%
+
+cpy: Chalcopyrite (copper pyrite), CuFeS<sub>2</sub>, xenomorph = 10%
+
+po: Pyrrhotite (magnetic pyrite), Fe<sub>1-x</sub>S, xenomorph = 10%
 gal: Galena (lead glance), PbS, xenomorph = 5%
 
 b) Secondary components
 
-te: Tetrahedrite (gray copper ore), Cu₃SbS₃₋₄, found exclusively as inclusions in galena.
-mo: Molybdenite, MoS₂, as needle-like crystals in gangue
+te: Tetrahedrite (gray copper ore), Cu<sub>3</sub>SbS<sub>3-4</sub>, found exclusively as inclusions in galena.
+mo: Molybdenite, MoS<sub>2</sub>, as needle-like crystals in gangue
 ga: Gangue (probably amphibole)
 
 **Literature**
