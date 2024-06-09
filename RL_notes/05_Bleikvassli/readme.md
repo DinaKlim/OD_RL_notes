@@ -17,6 +17,8 @@ b) A pre-metamorphic, syngenetic, or diagenetic deposition of sulfides
 
 **Description of the thin section**
 
+![05_Bleikvassli](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/05_Bleikvassli/5%20Bleikvassli.jpg)
+
 The ore is generally referred to as massive lead-zinc-copper ore, and the proportion of gangue varies greatly but is always below 40%. A lead enrichment in mineable concentration in the hanging wall of the ore body, according to Vokes, is attributed to an additional phase of mineralization. The predominantly medium-grained (0.2-4.0 mm) sulfide ore exhibits a homogeneous texture and consists of two ore types: namely, the more frequently occurring pyritic ore type, consisting of pyrite, sphalerite, and galena with a small proportion of pyrrhotite, and the less frequently occurring pyrrhotite-rich ore type, which mainly consists of pyrrhotite, with more or less equal proportions of sphalerite and galena.
 Pyrite is mostly found in xenomorphic form, but sometimes also in idiomorphic form; all other ores are mainly found in xenomorphic form.
 
@@ -42,5 +44,7 @@ ga: Gangue (probably amphibole)
 **Literature**
 
 Führer der Lagerstätten-Exkursion nach Norwegen, (1985) Mineralogisches Institut zu Köln
+
 Vokes, F.M.: Geological studies on the Caledonian Pyritic zinc-lead-orebody at Bleikvassli, Nordland, Norway, 1963
+
 Vokes, F.M.: On the Possible modes of Origin of the Caledonian Sulfide ore at Bleikvassli
