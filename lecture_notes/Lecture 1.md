@@ -30,3 +30,19 @@ Ni deposits are associated with greenstone belts and komatiites.
 Early Ordovician to Early Cretaceous Canning Basin in **Western Australia**: epicontinental basins, for example Canning Basin. Mississippi-Valley-Type (MVT), Pb-Zn-deposits in Devonian reef carbonates
 
 **Eastern Australia:** Tasman Fold Belt, continental accretion, arc and back-arc magmatism with associated porphyry-style and epithermal Cu - Mo - Au deposits, Granite-related Sn - W vein deposits, Volcanogenic Massive Sulfide Cu-Zn (± Pb, Au, Ag) deposits and metamorphic Au deposits.
+
+**Introduction to the rock samples**
+
+5 series of rock samples are used in the course. Samples from each series are located approximately 1 km from each other and are linked by the ore-forming process. 
+
+Hints: The numbering sequence is not arbitary, but corresponds to a spatial or temporal order of the processes:
+
+A:	1...4 = stratigraphic succession, footwall (bottom) to hangingwall (top)
+
+B:	1 ... 3 = time succession, events separated by  >100 m.y. time interval
+
+C:	The rocks appear concordant and folded 
+
+D:	The rocks are located among reef limestones at the margins of a palaeo-basin
+
+E:	Stratigraphic succession from bottom (1) to top (4); arrow = vertical
