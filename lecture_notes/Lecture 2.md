@@ -4,11 +4,11 @@
 
 There is a particular period in the Proterozoic in Australia when some of the largest Pb-Zn and also Cu deposits formed. There are 3 features that are unique, and occur for the first time in the world’s history there. 
 
-* One is the preparation of the tectonic basement of this old continent that has a much older pre-history, which leads to fault structuring and then determines the architecture of sedimentary basin. At this stage it becomes a shelf basin with sub-basins in which these ore deposits form by sedimentary-exhalative processes. 
+* One is the preparation of the tectonic basement of this old continent that has a much older pre-history, which leads to **fault structuring** and then determines the architecture of sedimentary basin. At this stage it becomes a shelf basin with sub-basins in which these ore deposits form by sedimentary-exhalative processes. 
 
-* Also the first time for globally extensive evaporitic conditions, which means lots of salty fluids present. 
+* Also the first time for globally extensive **evaporitic conditions**, which means lots of salty fluids present. 
 
-* Finally, it is also a time that culminated after several inter-continental orogeny stages that included a lot of granite magmatism. Crustal granite magmatism has the effect of acting as a heat source and transferring U, Th, K closer to the surface. This input of extra energy into the system is another feature that correlates with the emergence of ore deposits shortly after.
+* Finally, it is also a time that culminated after several inter-continental orogeny stages that included a lot of **granite magmatism**. Crustal granite magmatism has the effect of acting as a **heat source** and transferring U, Th, K closer to the surface. This input of extra energy into the system is another feature that correlates with the emergence of ore deposits shortly after.
 
 Two contrasting examples: 
 
@@ -33,11 +33,13 @@ Ore formation is element enrichment. Trace elements need to be collected from bi
 | ENERGY                 | Ligand Source      | Regional Scale 100s of KMs | Metamorphic grade, igneous intrusions, sedimentary thickness |
 | LIGANDS                | Metal Source       |                       | Evaporites, organics, geochemistry, isotopes                |
 | SOURCE                 |                    |                       | Radiometric and/or geochemical anomalies                    |
-| TRANSPORT              | Transporting Fluid |                       | Magnetic, radiometric and/or geochemical anomalies, alteration structures |
-| TRAP                   | Trap               | District Scale <10 KM, Deposit Scale | Dilational traps, reactive rocks, geochemical or geophysical anomalies, alteration structures |
-| OUTFLOW                | Discharge          |                       | Magnetic, radiometric and/or geochemical anomalies, alteration structures |
+| TRANSPORT              | Transporting Fluid |                       | Magnetic, radiometric and/or geochemical anomalies, alteration, structures |
+| TRAP                   | Trap               | District Scale <10 KM, Deposit Scale | Dilational traps, reactive rocks, geochemical or geophysical anomalies, alteration, structures |
+| OUTFLOW                | Discharge          |                       | Magnetic, radiometric and/or geochemical anomalies, alteration, structures |
 
-** ¯\_(ツ)_/¯ what if the ore-forming process is not complete without epigenetic ore enrichment? Would it make sense to add another line?
+``¯\_(ツ)_/¯``
+ 
+What if the ore-forming process is not complete without epigenetic ore enrichment? Would it make sense to add another line?
 
 | Components             | Ingredients        | Scales                | Mapping Criteria                                           |
 |------------------------|--------------------|-----------------------|------------------------------------------------------------|
