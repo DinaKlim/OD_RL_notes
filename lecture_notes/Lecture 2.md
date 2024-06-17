@@ -37,10 +37,17 @@ Ore formation is element enrichment. Trace elements need to be collected from bi
 | TRAP                   | Trap               | District Scale <10 KM, Deposit Scale | Dilational traps, reactive rocks, geochemical or geophysical anomalies, alteration, structures |
 | OUTFLOW                | Discharge          |                       | Magnetic, radiometric and/or geochemical anomalies, alteration, structures |
 
-``¯\_(ツ)_/¯``
- 
-What if the ore-forming process is not complete without epigenetic ore enrichment? Would it make sense to add another line?
+``¯\_(ツ)_/¯`` What if the ore-forming process is not complete without epigenetic ore enrichment? Would it make sense to add another line?
 
 | Components             | Ingredients        | Scales                | Mapping Criteria                                           |
 |------------------------|--------------------|-----------------------|------------------------------------------------------------|
-| EPIGENETIC MODIFICATION| Deformation        |                       | Structural                                                  |
+| EPIGENETIC MODIFICATION| Deformation        |                       | Structural                                                  | 
+
+**Metal solubility** is the main limiting factor in terms of the source for most sediment-hosted mineral systems.
+
+Solubilities of the base metal sulfides vary by orders of magnitude.
+Ore-forming factors are a combination of physics and chemistry. Further discussion will focus on the source region and the point that getting the metals in solution is the most serious constraint in making an ore-forming hydrothermal system. And the reason is that metal solubilities vary by huge numbers of orders of magnitudes. 
+
+
+
+
