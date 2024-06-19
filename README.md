@@ -7,6 +7,8 @@
 
 [Some references to open access resources: books, articles, PhD theses, Geohug and Ore Deposits Hub talks](https://github.com/DinaKlim/OD_RL_notes/tree/main/References)
 
+[Ore deposits notes](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/readme.md)
+
 **Goals**: 
 * To share the open access references and some code on topics that I like most: **geochemistry**, **data science**, **mineral systems** and **ore deposits**, and **reflected light petrography**.
 * Organize the notes from the Ore Deposits course and the Reflected light petrography course materials, trying to create links between these two courses when possible. 
