@@ -5,9 +5,12 @@
     <img src="https://github.com/DinaKlim/OD_RL_notes/blob/main/old_sources.jpg" style="width: 29%; height: auto;">
 </div>
 
-[Some references to open access resources: books, articles, PhD theses, Geohug and Ore Deposits Hub talks](https://github.com/DinaKlim/OD_RL_notes/tree/main/References)
+[**Some references to open access resources:** books, articles, PhD theses, Geohug and Ore Deposits Hub talks](https://github.com/DinaKlim/OD_RL_notes/tree/main/References)
 
-[Ore deposits notes](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/readme.md)
+[**Ore deposits notes**](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/readme.md)
+
+[**Reflected light petrography notes and samples**](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/readme.md)
+
 
 **Goals**: 
 * To share the open access references and some code on topics that I like most: **geochemistry**, **data science**, **mineral systems** and **ore deposits**, and **reflected light petrography**.
