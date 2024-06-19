@@ -10,3 +10,4 @@ Emphasis on observation, documentation, key concepts and investigation methods.
 
 [**Lecture 1.** A Brief Overview of Australia's Geological History and Ore Deposits.](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%201.md)
 
+[**Lecture 2.** Introduction to ore-forming processes.](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%202.md)
