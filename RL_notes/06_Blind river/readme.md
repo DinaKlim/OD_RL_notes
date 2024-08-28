@@ -89,3 +89,32 @@ Furthermore, a thorium-bearing xenotime with a cerium/lanthanum ratio of 3:1 als
 
 ![06 Blind River](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/06_Blind%20river/6%20Blind%20river.jpg)
 
+Legend 
+
+(a) Pyrite
+
+(b) Covellite
+
+(c) Zircon
+
+(d) Rutile
+
+(e) Cobaltite with gangue
+
+(f) Brannerite
+
+(g) Chromite
+
+(h) Sphalerite with chalcopyrite
+
+(i) Galena
+
+(l) Magnetite with chalcopyrite inclusion
+
+**4) Literature**
+
+I. Ramdohr, Paul; Die Uran- und Goldlagerstätten Witwatersrand-Blind River District-Dominion Reef-Serra de Jacobina; Abhandlung der Akademie Berlin 1958, Nr. 3.
+
+II. Button, Andrew; Adams, Samuel S.; Geology and Recognition Criteria for Uranium Deposits of the Quartz-Pebble Conglomerate Type; Final Report; Grand Junction Office, Colorado 1980/81.
+
+III. Stanton, R.L.; Ore Petrology; McGraw-Hill Book Company 1972.
