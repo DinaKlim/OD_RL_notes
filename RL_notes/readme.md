@@ -11,3 +11,5 @@
 [04_Belvedere](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/04_Belvedere/readme.md)
 
 [05_Bleikvassli](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/05_Bleikvassli/readme.md)
+
+[06_Blind River](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/06_Blind%20river/readme.md)
