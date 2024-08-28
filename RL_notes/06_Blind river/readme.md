@@ -8,6 +8,9 @@ The Blind River deposit, located on the Canadian Shield, is primarily mined for 
 
 This area is located north of Lake Huron in the Canadian province of Ontario (see figure).
 
+![Blind River general geology](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/06_Blind%20river/06_Blind%20River%20general%20geology.JPG)
+Regional structural geology of the Huronian Supergroup (from Roscoe, 1969).
+
 Lithologically, this area is composed of highly metamorphosed basic volcanic rocks, sediments, and granites, which have been intruded by younger granites. The rocks are approximately 2.3 billion years old and belong to the Matinenda Formation (see table).
 
 | **Group**    | **Formation**       | **Composite Lithological Sequence**            |
