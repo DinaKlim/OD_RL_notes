@@ -14,23 +14,33 @@ Cooling: Bornite (partially) → Lamellar Chalcocite + Chalcopyrite.
 **Phase Composition**
 
 (A) Bornite:
+
 Color: Cu-red / weakly anisotropic
+
 VHN: 125
 
 (B) Chalcopyrite:
+
 Color: yellow / weakly anisotropic
+
 VHN: 237
 
 (C) Chalcocite:
+
 Color: white / isotropic
+
 VHN: 120 (not precisely measurable due to grain size)
 
 (D) Hematite:
+
 Color: silver-gray / strongly anisotropic
+
 VHN: 1100
 
 (E) Rotspat, or red-colored siderite (Siderite + finely dispersed Fe₂O₃):
+
 Color: With polarization, red internal reflections; without polarization, gray
+
 VHN: 400/480
 
 (F) Siderite:
@@ -38,6 +48,8 @@ Color: With polarization, white internal reflections; without polarization, gray
 VHN: 320
 
 **Texture Description**
+
+![Texture Buntkupfererz](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/07_Buntkupfererz_Eiserfeld_Siegen/7%20Buntkupfererz%20Eiserfeld%20Siegen.jpg)
 
 The ore shows the following sequence:
 
