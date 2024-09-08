@@ -13,3 +13,5 @@
 [05_Bleikvassli](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/05_Bleikvassli/readme.md)
 
 [06_Blind River](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/06_Blind%20river/readme.md)
+
+[07_Buntkupfererz_Siegen](https://github.com/DinaKlim/OD_RL_notes/tree/main/RL_notes/07_Buntkupfererz_Eiserfeld_Siegen/readme.md)
