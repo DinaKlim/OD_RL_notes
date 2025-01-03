@@ -69,7 +69,9 @@ Silicates: Garnet, pyroxene, epidote, sphene, biotite, chlorite, sericite.
 ## Literature:
 
 Paul Ramdohr, Die Erzminerale und ihre Verwachsungen, 1950, Springer-Verlag.
+
 J.W. von Backström, The Dominion Reef Group, Western Transvaal, South Africa, Geological Survey Prof. Paper
+
 S.A. Hiemstra, The Mineralogy and Petrology of the Uraniferous Conglomerate of the Dominion Reef's Mine, Klerksdorp Area, 1967.
 
 
