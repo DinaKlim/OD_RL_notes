@@ -13,6 +13,7 @@ Porous
 
 The porous type is absent here. Pyrite often carries drop-shaped "inclusions": chalcopyrite, pyrrhotite, galena, and sphalerite.
 
+![Blind River sketch](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/11_Blind_river/11%20Blind%20River%20sketch.jpg)
 
 Pyrite is often cataclastically fragmented or at least shows cracks and continuous dislocations, which are accompanied by very fine magnetite lamellae. 
 Corroded grain edges are clearly and frequently observed; pyrite is corroded, and in part, magnetite forms. The transformation of pyrite edges to magnetite is often and clearly observable.
