@@ -19,3 +19,7 @@
 [08_Butte](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/08_Butte/readme.md)
 
 [09_Chalcocite_unknown](https://github.com/DinaKlim/OD_RL_notes/tree/main/RL_notes/09_Chalcocite_unknown/readme.md)
+
+[10_Copper_Canyon](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/10_Copper_canyon/readme.md)
+
+[11_Blind_river_updated](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/11_Blind_river/readme.md)
