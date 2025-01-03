@@ -41,6 +41,31 @@ The DRG contains a basal conglomerate (fossil placers of uranium and gold), prim
 
 The four spatially separated parts of the DRG are:
 
-The Afrikander Lease Area, which forms a displacement of approximately 7 km,
-The Dominion Reef Area, a quasi-synclinal structure that dips to the southwest,
-The Vlakfontein Area, which is almost entirely covered by lavas,
+* The Afrikander Lease Area, which forms a displacement of approximately 7 km,
+* The Dominion Reef Area, a quasi-synclinal structure that dips to the southwest,
+* The Vlakfontein Area, which is almost entirely covered by lavas of the Ventersdorp Supergroup, so that only two narrow units are exposed, and
+* The basal sediments in the Ottosdal area.
+
+The DRG can be lithologically divided into three parts:
+
+The 90 m thick basal sediments, consisting of conglomerates, arkoses, and quartzites, with subordinate shale bands.
+A 650 m thick middle formation of andesitic lava flows with interbedded tuff and shales.
+1500 m thick rhyolites and dacites, with interbedded tuff layers, shales, and breccias.
+
+The two zones of the conglomerate, which contain the main amounts of gold, are divided into the Upper and Lower Reef, the primary carriers of gold and uranium. The conglomerate bands are differently well sorted. The Lower Reef, 0–40 m thick, contains the lenticular, well-sorted sandstone conglomerates, which form the maingold content. At the observation horizon, the best concentrations of heavy minerals, including uraninite, are observed.
+
+The following minerals are noted:
+
+Radioactive Minerals: Th-uraninite, thorite, monazite, betafite, euxenite, leucoxene, and zircon.
+
+Sulfides: Pyrite, marcasite, galena, chalcopyrite, covellite, sphalerite, cobaltite, linnaeite, arsenopyrite.
+
+Native elements: Gold.
+
+Silicates: Garnet, pyroxene, epidote, sphene, biotite, chlorite, sericite.
+
+## Literature:
+
+Paul Ramdohr, Die Erzminerale und ihre Verwachsungen, 1950, Springer-Verlag.
+
+
