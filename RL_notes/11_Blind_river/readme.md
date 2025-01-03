@@ -39,6 +39,8 @@ which represents a vast sedimentary basin, primarily composed of non-volcanic se
 The DRG lies discordantly on granites (see map). This granitic basement is 3000 million years old.
 The DRG contains a basal conglomerate (fossil placers of uranium and gold), primarily volcanics with intermediate to acidic characteristics.
 
+![Not sure if that's the map](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/11_Blind_river/11%20Blind%20River%20section.jpg)
+
 The four spatially separated parts of the DRG are:
 
 * The Afrikander Lease Area, which forms a displacement of approximately 7 km,
@@ -67,5 +69,8 @@ Silicates: Garnet, pyroxene, epidote, sphene, biotite, chlorite, sericite.
 ## Literature:
 
 Paul Ramdohr, Die Erzminerale und ihre Verwachsungen, 1950, Springer-Verlag.
+J.W. von Backström, The Dominion Reef Group, Western Transvaal, South Africa, Geological Survey Prof. Paper
+S.A. Hiemstra, The Mineralogy and Petrology of the Uraniferous Conglomerate of the Dominion Reef's Mine, Klerksdorp Area, 1967.
+
 
 
