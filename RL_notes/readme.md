@@ -12,7 +12,7 @@
 
 [05_Bleikvassli](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/05_Bleikvassli/readme.md)
 
-[06_Blind River](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/06_Blind%20river/readme.md)
+[06_Blind River (Canada)](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/06_Blind%20river/readme.md)
 
 [07_Buntkupfererz_Siegen](https://github.com/DinaKlim/OD_RL_notes/tree/main/RL_notes/07_Buntkupfererz_Eiserfeld_Siegen/readme.md)
 
@@ -22,4 +22,4 @@
 
 [10_Copper_Canyon](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/10_Copper_canyon/readme.md)
 
-[11_Blind_river_updated](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/11_Blind_river/readme.md)
+[11_Blind_river (South Africa)](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/11_Blind_river/readme.md)
