@@ -1,4 +1,4 @@
-## Dominion Reef (Blind River)
+## Dominion Reef (Blind River) - South Africa
 
 Polished Section Description
 
