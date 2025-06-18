@@ -1,6 +1,6 @@
 ## Description of polished sections in reflected light from samples of the porphyry-copper deposit El Salvador, Chile
 
-Section Description
+**Section Description**
 
 In these polished sections, native copper comprise about 70%. Cu occurs either in the form of sheets or as veins and is surrounded by a rim of cuprite. This rim usually extends outward and is fused there with flakes of limonite.
 
@@ -10,7 +10,7 @@ Where copper appears in the form of veins, it is surrounded by narrow cuprite ri
 
 ![El Salvador thin section](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/12_El_Salvador/12%20El%20Salvador.jpg)
 
-Description of the deposit
+**Description of the deposit**
 
 The deposit is located in northern Chile, approximately 800 km north of Santiago in the Atacama Desert, in the Indio-Muerto District. Host rocks of the ore are sediments and andesites of the Upper Cretaceous, which are overlain by Tertiary volcanic rocks. The formation of the deposit is associated with Tertiary volcanism, during which mainly andesite and rhyolite were erupted.
 
@@ -30,6 +30,6 @@ The sample from which the polished sections considered here were prepared origin
 
 In arid climate zones like this one, there is no consistently stable groundwater level, but rather a fluctuation zone, in which oxidation and cementation processes occur side by side.
 
-Literature:
+**Literature**
 
 Economic Geology, Vol. 70, 1975, Issue 5
