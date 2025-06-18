@@ -8,6 +8,7 @@ As the second most common component, the section contains about 20% granular, no
 
 Where copper appears in the form of veins, it is surrounded by narrow cuprite rims, or the copper veins are cross-cut or completely replaced by the occurrence of cuprite. As extremely rare accessory components, covellite appears in very small crystals, as well as small grains of bornite and chalcopyrite. 
 
+![El Salvador thin section](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/12_El_Salvador/12%20El%20Salvador.jpg)
 
 2. Description of the deposit
 
