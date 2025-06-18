@@ -10,6 +10,7 @@ Where copper appears in the form of veins, it is surrounded by narrow cuprite ri
 
 ![El Salvador thin section](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/12_El_Salvador/12%20El%20Salvador.jpg)
 
+
 **Description of the deposit**
 
 The deposit is located in northern Chile, approximately 800 km north of Santiago in the Atacama Desert, in the Indio-Muerto District. Host rocks of the ore are sediments and andesites of the Upper Cretaceous, which are overlain by Tertiary volcanic rocks. The formation of the deposit is associated with Tertiary volcanism, during which mainly andesite and rhyolite were erupted.
