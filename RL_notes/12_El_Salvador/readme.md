@@ -8,6 +8,7 @@ As the second most common component, the section contains about 20% granular, no
 
 Where copper appears in the form of veins, it is surrounded by narrow cuprite rims, or the copper veins are cross-cut or completely replaced by the occurrence of cuprite. As extremely rare accessory components, covellite appears in very small crystals, as well as small grains of bornite and chalcopyrite. 
 
+
 2. Description of the deposit
 
 The deposit is located in northern Chile, approximately 800 km north of Santiago in the Atacama Desert, in the Indio-Muerto District. Host rocks of the ore are sediments and andesites of the Upper Cretaceous, which are overlain by Tertiary volcanic rocks. The formation of the deposit is associated with Tertiary volcanism, during which mainly andesite and rhyolite were erupted.
