@@ -31,6 +31,8 @@ Average ore grades:
 
 Sample No. 26 – Complex Sulfide Ore, Falun, Sweden
 
+![Falun](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/14_Falun/14%20Falun.jpg)
+
 * Pyrite
 
 * Sphalerite
