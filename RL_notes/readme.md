@@ -25,3 +25,6 @@
 [11_Blind_river (South Africa)](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/11_Blind_river/readme.md)
 
 [12_El_Salvador](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/12_El_Salvador/readme.md)
+
+[13_Ely](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/13_Ely/readme.md)
+
