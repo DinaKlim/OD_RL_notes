@@ -23,6 +23,7 @@ Here, for example, pyrite is often idiomorphic and encloses other minerals.
 Two types of magnetite occur:
 
 a.) Inclusions in pyrite
+
 b.) Flaky and xenomorphic grains
 
 The pyrrhotite shows a 'bird's-eye structure'. That is, along cracks, the pyrrhotite is weathered and transformed into a mixture of marcasite and pyrite.
@@ -30,9 +31,13 @@ The pyrrhotite shows a 'bird's-eye structure'. That is, along cracks, the pyrrho
 In massive sulfide ores, the following parageneses are distinguished:
 
 a.) Fe
+
 b.) Fe – Cu
+
 c.) Fe – Cu – Zn
+
 d.) Fe – Cu – Zn – Pb
+
 
 This is a case of the Fe – Cu (b) paragenesis.
 
