@@ -51,12 +51,12 @@ If that were not the case, chalcopyrite (originally written "Kupferglanz", corre
 The following minerals were found in the polished sections of the porphyry copper deposit:
 
 **Pyrite:**
-Large aggregates, partly formed in narrow veins, partly as scattered aggregates; often contains small aggregates of chalcopyrite, cuprite, sphalerite, and magnetite; small, round aggregates of pyrite are enclosed in chalcopyrite.
+Large aggregates, partly formed in narrow veins, partly as scattered aggregates; often contains small aggregates of chalcopyrite, cuprite, sphalerite, and pyrrhotite; small, round aggregates of pyrite are enclosed in chalcopyrite.
 
 **Chalcopyrite:**
 Partly large aggregates with enclosed pyrite, but also occurs as inclusions within pyrite; appears very clearly in the polished sections; covellite can be found on the edges or in small chalcopyrite veins.
 
-**Magnetite:**
+**Pyrrhotite:**
 Small round aggregates in pyrite, intergrown with chalcopyrite. Rare.
 
 **Cuprite:**
