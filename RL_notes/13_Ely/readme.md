@@ -44,8 +44,8 @@ In general, the content of ore minerals in the polished sections is not very hig
 
 The identification of bornite and chalcopyrite as copper-bearing phases in this section really only leads to the conclusion that these are samples from the oxidation zone. (Handwritten note: in the cementation zone! Chalcocite)
 
-If that were not the case, chalcopyrite (originally written "Kupferglanz", corrected to "Kupferkies") would have to be found in the polished section.
-
+If that were not the case, chalcopyrite (originally written "Kupferglanz", corrected to "Kupferkies" - pyrrhotite) would have to be found in the polished section.
+ 
 ![Ely](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/13_Ely/13%20Ely.jpg)
 
 The following minerals were found in the polished sections of the porphyry copper deposit:
