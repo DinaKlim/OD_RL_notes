@@ -36,7 +36,7 @@ d.) Fe – Cu – Zn – Pb
 
 This is a case of the Fe – Cu (b) paragenesis.
 
-
+![Girlie mine](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/15_Girlie/15%20Girlie%20mine%20sketch1.jpg)
 
 **Covellite (CuS)**
 Covellite is dark indigo blue to deep cornflower blue, semi-metallic.
