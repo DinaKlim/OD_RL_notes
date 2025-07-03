@@ -86,5 +86,6 @@ Cleavage is not visible.
 The color is pale yellow.
 Isotropic to weakly anisotropic.
 
+![Girlie mine sketch2](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/15_Girlie/15%20Girlie%20mine%20sketch2.jpg)
 
 
