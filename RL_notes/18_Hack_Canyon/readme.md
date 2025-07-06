@@ -140,6 +140,8 @@ Twinning is observable in good crystals according to the spinel law (111), but i
 
 **POLISHED SECTION DESCRIPTION**
 
+![Hack Canyon photos 1](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/18_Hack_Canyon/18%20Hack%20Canyon%20photos%201.jpg)
+
 The predominant mineral in the polished section is marcasite, along with pyrite and chalcopyrite. The typical lamination of marcasite is not observable here, but it stands out clearly due to its strong anisotropy effects (AE), distinguishing it from pyrite. It exhibits the characteristic color impression (FE) of adjacent intergrowths: white with a greenish tint. 
 Crystal boundaries are not visible in marcasite; it appears very “corroded,” which indicates replacement reactions and transformations. 
 
