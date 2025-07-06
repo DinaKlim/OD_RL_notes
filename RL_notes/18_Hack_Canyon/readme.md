@@ -172,6 +172,8 @@ Luzonite is overall lighter in color and always shows twinning lamellae, which w
 
 So, the question remains open whether this is an independent mineral or just a further developmental stage of enargite, which shows a slightly different Cu-S ratio and therefore different reflectivity.
 
+![18 Hack Canyon photo2](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/18_Hack_Canyon/18%20Hack%20Canyon%20photo%202.jpg)
+
 The previously mentioned tennantite, which occurs only very sporadically and then in the vicinity of enargite, had already been identified by Schneiderhöhn as an alteration product of enargite and called "green enargite".
 A typical replacement process is likely not present in this transformation, as no significant amount of substance has been added or removed.
 The color impression of the fahlerz (tetrahedrite-tennantite solid solution; here probably Cu-As-fahlerz) also matches that of pure Cu-As fahlerz: greenish with a slight blue tint.
