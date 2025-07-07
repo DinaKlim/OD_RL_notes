@@ -178,6 +178,7 @@ The previously mentioned tennantite, which occurs only very sporadically and the
 A typical replacement process is likely not present in this transformation, as no significant amount of substance has been added or removed.
 The color impression of the fahlerz (tetrahedrite-tennantite solid solution; here probably Cu-As-fahlerz) also matches that of pure Cu-As fahlerz: greenish with a slight blue tint.
 
+![18 Hack Canyon pitchblende](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/18_Hack_Canyon/18%20Hack%20Canyon%20pitchblende.jpg)
 Another mineral found in the thin section, though not part of the sulfide paragenesis, is pitchblende (uraninite). It occurs exclusively in colloform, kidney-shaped clusters, which likely formed by gel deposition. It is not intergrown with the sulfides but appears at grain boundaries of the gangue, in some cases in significant quantities.
 Pitchblende can show varying shades of gray, but classification into specific uranium secondary minerals was not possible.
 
