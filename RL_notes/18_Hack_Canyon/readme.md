@@ -217,5 +217,6 @@ Lepidocrocite (Rubinglimmer); Goethite (Nadeleisenerz);
 Covellite; Chalcocite (isotropic); Rutile
 
 7. Section: CLEAR
+
 Lepidocrocite (idiomorphic rhombs);
 Goethite; Quartz
