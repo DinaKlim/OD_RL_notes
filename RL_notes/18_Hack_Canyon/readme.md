@@ -190,6 +190,8 @@ An attempt was made using X-ray fluorescence analysis (RFA) to detect nickel and
 
 In five additional thin sections from other mines of the Colorado Plateau, the same mineral association was also identified. Since these are also so-called "collapse structures," it was suspected that uranium mineralization might also be found here. However, no traces of radioactive minerals could be detected—neither microscopically, nor using X-ray fluorescence analysis (RFA), nor by autoradiography (exposure time: 1 week).
 
+![18 Hack Canyon autoradiography](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/18_Hack_Canyon/18%20Hack%20Canyon%20autoradiography.jpg)
+
 The following list shows the identified minerals in the thin sections:
 
 1. Section: TUCK
