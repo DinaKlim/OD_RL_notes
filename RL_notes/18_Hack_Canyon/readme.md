@@ -185,3 +185,35 @@ Pitchblende can show varying shades of gray, but classification into specific ur
 Very rarely, tiny grains were found that, based on their reflectivity, suggested galena and sphalerite, but cleavage or internal reflections were not visible, so definitive identification was not possible.
 
 An attempt was made using X-ray fluorescence analysis (RFA) to detect nickel and cobalt, but the result was negative; only uranium could be identified.
+
+![18 Hack Canyon idealized](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/18_Hack_Canyon/18%20Hack%20Canyon%20idealized.jpg)
+
+In five additional thin sections from other mines of the Colorado Plateau, the same mineral association was also identified. Since these are also so-called "collapse structures," it was suspected that uranium mineralization might also be found here. However, no traces of radioactive minerals could be detected—neither microscopically, nor using X-ray fluorescence analysis (RFA), nor by autoradiography (exposure time: 1 week).
+
+The following list shows the identified minerals in the thin sections:
+
+1. Section: TUCK
+
+Cuprite wedges between SiO₂ grains;
+native Cu in cuprite;
+some pyrite (idiomorphic),
+enargite; malachite; azurite.
+
+2. Section: MUD
+   
+Cuprite; Enargite; Malachite; Azurite;
+(possibly Rutile)
+
+3. Section: CU-MN I
+   
+Chalcopyrite; Chalcocite; Enargite;
+Covellite; Hematite; Malachite
+
+4. Section: CU-MN II
+   
+Lepidocrocite (Rubinglimmer); Goethite (Nadeleisenerz);
+Covellite; Chalcocite (isotropic); Rutile
+
+7. Section: CLEAR
+Lepidocrocite (idiomorphic rhombs);
+Goethite; Quartz
