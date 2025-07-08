@@ -35,7 +35,7 @@ The ore body formed through the emplacement of a late Oligocene intrusion into t
 
 There are two theories regarding its formation:
 
-The oceanic crust subducts beneath the continent and melts due to heating in the contact zone between the oceanic and continental plates. These melts lead to volcanism in the overlying regions (Note: same as in [Ely] (https://github.com/DinaKlim/OD_RL_notes/tree/main/RL_notes/13_Ely)). In this process, metal anomalies located in the contact zone of the continental plate are dissolved and transported.
+The oceanic crust subducts beneath the continent and melts due to heating in the contact zone between the oceanic and continental plates. These melts lead to volcanism in the overlying regions (Note: same as in [Ely](https://github.com/DinaKlim/OD_RL_notes/tree/main/RL_notes/13_Ely)). In this process, metal anomalies located in the contact zone of the continental plate are dissolved and transported.
 
 The second theory, favored for Henderson, assumes that metal anomalies originate from the oceanic crust. In a spreading center (above a hot spot), such anomalies form and then migrate away from the center. The oceanic crust consists of three layers: calcareous sediments, sediments and basalt (50/50), and basalt. 
 
