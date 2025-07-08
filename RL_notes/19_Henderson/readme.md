@@ -59,6 +59,7 @@ In 1976, mine construction began at the Henderson Mine, which together with the 
 
 **Polished Section Description:**
 
+![19_Henderson](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/19_Henderson/19%20Henderson%20sketch.jpg)
 Molybdenite is clearly enriched in small veins and has been heavily deformed tectonically.
 Occasionally, molybdenite is found cut parallel to the basal plane.
 It has a hexagonal shape, appears brighter, exhibits less pleochroism, is isotropic, and relatively fractured.
