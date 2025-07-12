@@ -67,15 +67,13 @@ Stanton, Ore Petrology
 
 ![20 Kambalda sketch](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/20_Kambalda/20%20Kambalda%201.jpg)
 
-Description of the Thin Section:
+**Description of the Polished Section:**
 
 The ore is very massive and consists of more than 90% sulfides and oxides, with pyrrhotite being the main ore mineral. The mineralization is fine-grained and banded. This banding is caused by layers rich in pentlandite occurring within a pyrrhotite matrix. Pentlandite flames, resulting from exsolution within the pyrrhotite, are observable.
 
 Minor amounts of chalcopyrite and pyrite appear as interstitial fillings, without forming idiomorphic (well-formed) crystals.
 
 Small rounded grains of idiomorphic magnetite are evenly distributed throughout the mineralization. The magnetite is compositionally zoned; at the outer edge of the zoning, tiny droplets of unidentified sulfides can be found.
-
-Kambalda, Australia
 
 At the grain boundaries of magnetite, rare bushy or platy aggregates of graphite can be observed, not aligned tangentially to the boundaries. In some magnetite grains, limonite is beginning to replace the magnetite.
 
