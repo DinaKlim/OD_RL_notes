@@ -22,6 +22,7 @@ Geochronological dating indicates the ultramafic body is approximately 2,655 ± 
 The ore bodies are located within the ultramafic unit, at the contact with the metabasalt, and in some cases also at stratigraphically higher levels, completely separated from the contact-related mineralization.
 
 The sulfides occur both as massive bodies and as finely disseminated grains within a silicate matrix (so-called “disseminated ore”). The disseminated ore is always located at the margins of the massive mineralization; the contact between the two is sharp.
+
 ![20 Kambalda cross section](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/20_Kambalda/20%20Kambalda%20cross%20section.jpg)
 
 Theories about the origin of “nickel sulfide” deposits can be grouped into five categories:
@@ -41,6 +42,8 @@ The Kambalda deposit supports the theory of in situ magmatic differentiation.
 In the presence of small amounts of water, immiscible melts of silicates and sulfides/oxides can form at specific temperature ranges within magmas. (See Fig. 2: Crystallization sequence from two immiscible melts.) 
 
 ![20 Kambalda phase diagram](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/20_Kambalda/20%20Kambalda%20phase%20diagram.jpg)
+
+Fig. 11-16 Development of a "two-liquid" system in the cooling of a sulfide-rich intrusion such as that of Sudbury, as visualized by Hawley. The diagrammatic section illustrates cooling, separation of immiscible silicate-rich and sulfide-rich liquids, and crystallization, treated as a binary system. Point e lies close to left ordinate. Crystallization at e or g would extend over a range of temperatures. Points d and c represent approximate composition of "immiscible-silicate-sulfide" ores. (Redrawn from Hawley, Can. Mineralogist, 1962.)
 
 The separation of these phases depends on the following variables:
 
@@ -64,5 +67,18 @@ Stanton, Ore Petrology
 
 ![20 Kambalda sketch](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/20_Kambalda/20%20Kambalda%201.jpg)
 
+Description of the Thin Section:
 
-Fig. 11-16 Development of a "two-liquid" system in the cooling of a sulfide-rich intrusion such as that of Sudbury, as visualized by Hawley. The diagrammatic section illustrates cooling, separation of immiscible silicate-rich and sulfide-rich liquids, and crystallization, treated as a binary system. Point e lies close to left ordinate. Crystallization at e or g would extend over a range of temperatures. Points d and c represent approximate composition of "immiscible-silicate-sulfide" ores. (Redrawn from Hawley, Can. Mineralogist, 1962.)
+The ore is very massive and consists of more than 90% sulfides and oxides, with pyrrhotite being the main ore mineral. The mineralization is fine-grained and banded. This banding is caused by layers rich in pentlandite occurring within a pyrrhotite matrix. Pentlandite flames, resulting from exsolution within the pyrrhotite, are observable.
+
+Minor amounts of chalcopyrite and pyrite appear as interstitial fillings, without forming idiomorphic (well-formed) crystals.
+
+Small rounded grains of idiomorphic magnetite are evenly distributed throughout the mineralization. The magnetite is compositionally zoned; at the outer edge of the zoning, tiny droplets of unidentified sulfides can be found.
+
+Kambalda, Australia
+
+At the grain boundaries of magnetite, rare bushy or platy aggregates of graphite can be observed, not aligned tangentially to the boundaries. In some magnetite grains, limonite is beginning to replace the magnetite.
+
+**Literature:**
+
+Ramdohr, P., Die Erzmineralien und ihre Verwachsungen, Akademie-Verlag Berlin (1975)
