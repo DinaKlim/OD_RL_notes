@@ -40,6 +40,8 @@ The Kambalda deposit supports the theory of in situ magmatic differentiation.
 
 In the presence of small amounts of water, immiscible melts of silicates and sulfides/oxides can form at specific temperature ranges within magmas. (See Fig. 2: Crystallization sequence from two immiscible melts.) 
 
+![20 Kambalda phase diagram](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/20_Kambalda/20%20Kambalda%20phase%20diagram.jpg)
+
 The separation of these phases depends on the following variables:
 
 Sulfur partial pressure, oxygen partial pressure, total pressure, and temperature are all critical factors. If the sulfur partial pressure is sufficiently high, then nickel and copper will precipitate directly from the magma as sulfide minerals. If the sulfur content is too low, nickel will instead be incorporated into early-crystallizing olivine in amounts ranging from 0.1 to 0.5%.
