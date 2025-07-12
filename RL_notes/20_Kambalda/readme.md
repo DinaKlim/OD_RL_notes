@@ -59,5 +59,7 @@ Ney, Paul, Spezielle Mineralogie der Erzminerale (1977/78)
 
 Stanton, Ore Petrology
 
+![20 Kambalda sketch](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/20_Kambalda/20%20Kambalda%201.jpg)
+
 
 Fig. 11-16 Development of a "two-liquid" system in the cooling of a sulfide-rich intrusion such as that of Sudbury, as visualized by Hawley. The diagrammatic section illustrates cooling, separation of immiscible silicate-rich and sulfide-rich liquids, and crystallization, treated as a binary system. Point e lies close to left ordinate. Crystallization at e or g would extend over a range of temperatures. Points d and c represent approximate composition of "immiscible-silicate-sulfide" ores. (Redrawn from Hawley, Can. Mineralogist, 1962.)
