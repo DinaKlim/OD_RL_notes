@@ -22,6 +22,7 @@ Geochronological dating indicates the ultramafic body is approximately 2,655 ± 
 The ore bodies are located within the ultramafic unit, at the contact with the metabasalt, and in some cases also at stratigraphically higher levels, completely separated from the contact-related mineralization.
 
 The sulfides occur both as massive bodies and as finely disseminated grains within a silicate matrix (so-called “disseminated ore”). The disseminated ore is always located at the margins of the massive mineralization; the contact between the two is sharp.
+![20 Kambalda cross section](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/20_Kambalda/20%20Kambalda%20cross%20section.jpg)
 
 Theories about the origin of “nickel sulfide” deposits can be grouped into five categories:
 
