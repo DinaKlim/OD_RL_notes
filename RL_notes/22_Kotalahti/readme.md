@@ -12,6 +12,8 @@ Econ. Geology, 61, p. 802, (1966)
 
 The following minerals were identified in polished sections: pyrrhotite, pentlandite, chalcopyrite, magnetite, and ilmenite.
 
+![22 Kotalahti](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/22_Kotalahti/22%20Kotalahti%20sketch.jpg)
+
 **Pyrrhotite:**
 
 Forms the main mass of the ore.
@@ -37,3 +39,5 @@ Magnetite grains are rare; they are rounded and weakly anisotropic.
 **Ilmenite:**
 
 The ilmenite grains are morphologically very similar to magnetite grains and can easily be mistaken for them; however, they differ in color, anisotropy, and reflection pleochroism from magnetite.
+
+
