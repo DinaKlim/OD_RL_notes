@@ -51,6 +51,7 @@ From the **reflected-light microscopic examination**, the following minerals wer
 
 **Marcasite:** Occurs as a weathering product of pyrite.
 
+![Klipwal](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/21_Klipwal/21%20Klipwal%20sketch.jpg)
 
 **Literature**
 
