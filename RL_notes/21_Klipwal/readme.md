@@ -29,11 +29,11 @@ Stupp (1984) postulates the following model for the formation of the Klipwal min
 
 5. Mineralization with:
 
-* Pyrite formation and first gold deposition, with gold inclusions in pyrite
+  - Pyrite formation and first gold deposition, with gold inclusions in pyrite
 
-* Deposition of arsenopyrite
+  - Deposition of arsenopyrite
 
-* Second gold precipitation: free gold and gold intergrown with arsenopyrite
+  - Second gold precipitation: free gold and gold intergrown with arsenopyrite
 
 6. Formation of a second generation of vein quartz
 
