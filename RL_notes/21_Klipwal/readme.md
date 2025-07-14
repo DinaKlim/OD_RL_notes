@@ -50,3 +50,10 @@ From the **reflected-light microscopic examination**, the following minerals wer
 **Gold:** Occurs as inclusions in pyrite, sometimes intergrown with pyrrhotite. Rarely found in cracks in pyrite.
 
 **Marcasite:** Occurs as a weathering product of pyrite.
+
+
+**Literature**
+
+Stupp, H.D.
+Untersuchungen zur Metallogenese syngenetischer Gold-Uran-Vorkommen in Konglomeraten der präkambri­schen Pongola-Supergruppe und Moodies-Gruppe einschließlich eines Beitrags zur Genese der Klipwal-Goldlagerstätte, Kaapvaal-Kraton, RSA.
+Köln, 1984.
