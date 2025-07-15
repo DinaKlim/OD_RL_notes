@@ -71,7 +71,7 @@ Polished Section Kurgashinkan
 | 2   | ~54%   | white-yellow   | —          | high¹    | Pyrite       |
 | 3   | ~20%   | brown-gray     | —          | high²    | Magnetite    |
 | 4   | ~40%   | white-gray     | —          | low⁵     | Galena       |
-| 5   | ~40%   | pink           | distinct   | medium³  | Pentlandite  |
+| 5   | ~40%   | pink           | distinct   | medium³  | Pyrrhotite  |
 
 Legend:
 
@@ -81,5 +81,32 @@ R.P. = internal reflections (if any)
 
 Note on No. 1:
 The sphalerite (Zn,Fe,Mn,Cd)S shows reddish internal reflections, suggesting it is rich in iron.
+
+X-ray diffraction studies also show that the sphalerite contains Mn.
+
+It is interesting that the sphalerite is mostly intergrown with the gangue rock and only rarely intersected by magnetite (see sketch).
+
+Proportion in the section: ~60%
+
+Regarding No. 2:
+Pyrite FeS₂ appears partly in idiomorphic, partly in strongly porous and then mostly rounded (amorphous) form.
+
+Proportion in the section: ~30%
+
+Regarding No. 3:
+Magnetite Fe₃O₄ preferably forms a rim around the gangue rock, but also occurs independently and is then often well-rounded.
+It is notable that grains can be found enclosed in sphalerite.
+Proportion in the section: ~8%
+
+Regarding No. 4:
+Galena PbS is fine-grained, and cleavage breakouts are rarely observed.
+It is usually intergrown with sphalerite and/or pyrite. When it occurs independently, it is often well-rounded.
+Proportion in the section: ~2%
+
+Regarding No. 5:
+Pyrrhotite Fe<sub>11</sub>S<sub>12</sub> is always found independently and is well-rounded.
+Proportion in the section: <1%
+
+
 
 
