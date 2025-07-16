@@ -6,6 +6,8 @@ The dominant minerals are chalcopyrite and bornite (approx. 8:2 ratio),
 Subordinate occurrences of sphalerite, occasional molybdenite, and traces of galena are also observed.
 The gangue mineral is mainly quartz.
 
+![25 Lornex](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/25_Lornex/25%20Lornex.jpg)
+
 **CHALCOPYRITE** (CuFeS₂; 4̅2m, tetragonal):
 
 High reflectance, intense brassy-yellow color
