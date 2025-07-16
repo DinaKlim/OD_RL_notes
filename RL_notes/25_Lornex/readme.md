@@ -1,5 +1,23 @@
 ## Lornex Polished Sections
 
+**Summary**
+
+The Lornex Cu-Mo deposit is located in British Columbia, 42 km southeast of Ashcroft. It is a zoned, structurally controlled porphyry-type deposit in a quartz diorite (so-called Skeena Quartz Diorite, a variety of the so-called Bethlehem Phase of the Guichon Creek Batholith, age 198±8 million years).
+
+Mineralization began around 190±4 million years ago, after the intrusion of a quartz porphyry dyke. This dyke strikes northwest and dominates the southern part of the mineralized zone. The Lornex Fold, a northward-striking, west-dipping regional structure, forms the northwestern boundary of the ore body and separates it from a younger, unmineralized granodiorite (Bethsaida Granodiorite). The mineralized zone is about 1900 m long and 500 m wide and dips 30 to 40 degrees NW according to geological evidence.
+
+Mineralization is "fracture controlled" and commonly occurs as vein or fracture fillings.
+The predominant sulfides, in order of abundance, are:
+chalcopyrite, bornite, molybdenite, and pyrite.
+
+These sulfide minerals and the zones of hydrothermal alteration are arranged in an almost concentric pattern. A bornite core zone is surrounded by chalcopyrite and molybdenite zones. Outwardly, this transitions into pyrite mineralization.
+Phyllitic and argillic hydrothermal alterations dominate zones with high ore content, while propylitic alteration is found in peripheral areas with pyrite and low Cu contents. The fracture density and sulfide content increase with hydrothermal alteration.
+
+The Lornex ore body was likely formed during the superposition of several regional structures. Under tectonic pressure, conjugate shear zones developed, which were subsequently mineralized by penetrating hydrothermal fluids.
+Renewed tectonic forces caused fracturing, faulting, and tilting of the mineralized zone along the Lornex Fold.
+After the relaxation of these forces, further folding and fracturing occurred on a smaller scale.
+
+
 **Ore Mineral Paragenesis**
 
 The dominant minerals are chalcopyrite and bornite (approx. 8:2 ratio),
@@ -81,21 +99,3 @@ Very low polishing/scratch hardness
 Characteristic triangular cleavage breaks
 
 Occurs in tiny cubes
-
-**Lornex – Summary**
-
-The Lornex Cu-Mo deposit is located in British Columbia, 42 km southeast of Ashcroft. It is a zoned, structurally controlled porphyry-type deposit in a quartz diorite (so-called Skeena Quartz Diorite, a variety of the so-called Bethlehem Phase of the Guichon Creek Batholith, age 198±8 million years).
-
-Mineralization began around 190±4 million years ago, after the intrusion of a quartz porphyry dyke. This dyke strikes northwest and dominates the southern part of the mineralized zone. The Lornex Fold, a northward-striking, west-dipping regional structure, forms the northwestern boundary of the ore body and separates it from a younger, unmineralized granodiorite (Bethsaida Granodiorite). The mineralized zone is about 1900 m long and 500 m wide and dips 30 to 40 degrees NW according to geological evidence.
-
-Mineralization is "fracture controlled" and commonly occurs as vein or fracture fillings.
-The predominant sulfides, in order of abundance, are:
-chalcopyrite, bornite, molybdenite, and pyrite.
-
-These sulfide minerals and the zones of hydrothermal alteration are arranged in an almost concentric pattern. A bornite core zone is surrounded by chalcopyrite and molybdenite zones. Outwardly, this transitions into pyrite mineralization.
-Phyllitic and argillic hydrothermal alterations dominate zones with high ore content, while propylitic alteration is found in peripheral areas with pyrite and low Cu contents. The fracture density and sulfide content increase with hydrothermal alteration.
-
-The Lornex ore body was likely formed during the superposition of several regional structures. Under tectonic pressure, conjugate shear zones developed, which were subsequently mineralized by penetrating hydrothermal fluids.
-Renewed tectonic forces caused fracturing, faulting, and tilting of the mineralized zone along the Lornex Fold.
-After the relaxation of these forces, further folding and fracturing occurred on a smaller scale.
-
