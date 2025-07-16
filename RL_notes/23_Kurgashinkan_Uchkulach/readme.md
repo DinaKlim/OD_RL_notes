@@ -109,6 +109,46 @@ Regarding No. 5:
 Pyrrhotite Fe<sub>11</sub>S<sub>12</sub> is always found independently and is well-rounded.
 Proportion in the section: <1%
 
+Polished Section: Uchkulach
 
+| No. | Refl.   | Color           | Anisotropy | Hardness | R.P.         | Mineral       |
+|-----|--------:|------------------|------------|----------|--------------|---------------|
+| 1   | ~54%    | white / yellow   | —          | high¹    | —            | Pyrite        |
+| 2   | ~19%    | medium / gray    | —          | medium³  | —            | Sphalerite    |
+| 3   | ~40%    | white / gray     | —          | low⁵     | —            | Galena        |
+| 4   | ~40%    | yellow           | weak       | medium⁴  | —            | Chalcopyrite  |
+| 5   | ~45%    | medium / yellow  | distinct   | high²    | yellow → green | Marcasite   |
+
+<sub>1–5 = hardness scale</sub>
+
+Note on No. 1 (Pyrite):
+
+Pyrite (FeS₂) rarely appears idiomorphic. It is more commonly found as rounded, compact "framboidal" pyrite and mostly occurs in rounded porous form.
+
+No. 2:
+
+Sphalerite (Zn,Fe,Mn,Cd)S shows yellow internal reflections.
+It is partially intergrown with the gangue rock and pyrite; sometimes exsolution of sphalerite to chalcopyrite can be observed.
+Proportional share in the polished section: ~35%
+
+No. 3:
+
+Galena (PbS) rarely shows cleavage breakouts.
+Its most frequent intergrowth partners are, in this order, pyrite and sphalerite.
+Proportional share in the polished section: ~10%
+
+No. 4:
+
+Chalcopyrite (CuFeS₂) exhibits fine-lamellar twinning.
+Interestingly, chalcopyrite is rarely intergrown with pyrite and sphalerite (as is the case with galena), but mostly enclosed within the first two minerals.
+It is often exsolved from sphalerite.
+Chalcopyrite occurs only very rarely as an independent phase.
+Proportional share in the polished section: ~7%
+
+No. 5:
+
+Marcasite (FeS₂) is found exclusively within pyrite.
+Two general morphological types can be distinguished: one is more or less heavily tarnished, the other is not.
+Proportional share in the polished section: ~3%
 
 
