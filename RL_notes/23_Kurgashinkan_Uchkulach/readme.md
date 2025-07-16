@@ -122,6 +122,7 @@ Polished Section: Uchkulach
 <sub>1–5 = hardness scale</sub>
 
 ![Uchkulach](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/23_Kurgashinkan_Uchkulach/23%20Kurgashinkan%20Uchkulach%202.jpg)
+
 Note on No. 1 (Pyrite):
 
 Pyrite (FeS₂) rarely appears idiomorphic. It is more commonly found as rounded, compact "framboidal" pyrite and mostly occurs in rounded porous form.
@@ -152,4 +153,4 @@ Marcasite (FeS₂) is found exclusively within pyrite.
 Two general morphological types can be distinguished: one is more or less heavily tarnished, the other is not.
 Proportional share in the polished section: ~3%
 
-
+![Uchkulach 3](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/23_Kurgashinkan_Uchkulach/23%20Kurgashinkan%20Uchkulach%203.jpg)
