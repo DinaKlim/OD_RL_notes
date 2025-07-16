@@ -79,6 +79,8 @@ Legend:
 
 R.P. = internal reflections (if any)
 
+![Kurgashinkan](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/23_Kurgashinkan_Uchkulach/23%20Kurgashinkan%20Uchkulach%201.jpg)
+
 Note on No. 1:
 The sphalerite (Zn,Fe,Mn,Cd)S shows reddish internal reflections, suggesting it is rich in iron.
 
