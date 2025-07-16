@@ -81,6 +81,8 @@ R.P. = internal reflections (if any)
 
 ![Kurgashinkan](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/23_Kurgashinkan_Uchkulach/23%20Kurgashinkan%20Uchkulach%201.jpg)
 
+![Kurgashinkan 2](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/23_Kurgashinkan_Uchkulach/23%20Kurgashinkan%20Uchkulach%202.jpg)
+
 Note on No. 1:
 The sphalerite (Zn,Fe,Mn,Cd)S shows reddish internal reflections, suggesting it is rich in iron.
 
@@ -120,8 +122,6 @@ Polished Section: Uchkulach
 | 5   | ~45%    | medium / yellow  | distinct   | high²    | yellow → green | Marcasite   |
 
 <sub>1–5 = hardness scale</sub>
-
-![Uchkulach](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/23_Kurgashinkan_Uchkulach/23%20Kurgashinkan%20Uchkulach%202.jpg)
 
 Note on No. 1 (Pyrite):
 
