@@ -47,6 +47,9 @@ A secondary mineral, namely goethite, occasionally appears alongside sphalerite.
 
 Other minerals: covellite, molybdenite.
 
+![24 Letaba 1](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/24_Letaba/24%20Letaba%201.jpg)
+
+
 Genesis:
 Previously, the deposit was considered a hydrothermal deposit.
 The ore-forming solutions were thought to have originated from old granites and penetrated the surrounding rock along fracture zones.
