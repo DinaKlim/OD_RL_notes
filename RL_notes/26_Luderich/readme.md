@@ -3,7 +3,7 @@
 The Lüderich lode is located in the southern part of the Bensberg ore district, between the towns of Untereschbach-Altenbrück and Hoffnungsthal, approximately 20–30 km east of Cologne.
 Its length extension is about 5 km with a north-south strike and a dip of 50–70° to the east.
 
-# Mining activity in the Lüderich lode:
+**Mining activity in the Lüderich lode:**
 
 Roman times: first exploitation of some lead-zinc ore deposits in the Bensberg ore district
 
@@ -16,7 +16,7 @@ From 1830: intensive mining activity throughout the entire Bensberg ore district
 Stratigraphic succession of sediments in the area of the Lüderich Mine
 (after Schriel (1954) and Jux (1964))
 
-# Stratigraphy
+**Stratigraphy**
 
 Eifel
 
