@@ -54,6 +54,8 @@ The veins in the entire Bensberg ore district were, according to Hesemann (1978)
 The Lüderich-Bergsegen mine is characterized by a curved shape:
 The north-south-oriented general strike of the fault zone bends to the northwest in the north, and to the southwest in the south.
 
+![Tectonic sketch](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/26_Luderich/26%20Luderich%202.jpg)
+
 Wernicke (1960) interprets two systems of subsidiary faults running within this fault zone as having originated during orogenesis (mountain formation) due to compressive and tensional forces.
 In the areas of greatest crustal stress, breccias formed. These were then mineralized by a deep-seated pluton and subsequently mineralized again.
 
