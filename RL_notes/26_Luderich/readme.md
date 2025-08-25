@@ -63,5 +63,6 @@ According to Schriel (1954), the ore deposition was post-Devonian; several defor
 Paragenetic scheme
 of the Lüderich vein system
 (after Schriel and Buschendorf, 1951):
+![Paragenesis](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/26_Luderich/26%20Luderich%203.jpg)
 
 
