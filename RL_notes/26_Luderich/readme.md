@@ -69,4 +69,56 @@ of the Lüderich vein system
 (after Schriel and Buschendorf, 1951):
 ![Paragenesis](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/26_Luderich/26%20Luderich%203.jpg)
 
+Mineral description:
+Thin section series 1:
 
+Sphalerite (≈50%): largest proportion of the opaque ore content; mostly occurring as xenomorphic coarse grains without exsolution structures.
+
+Galena (≈20%): large xenomorphic grains; mainly in ZnS, but also occurring in the other ore minerals. Partly also as small xenomorphic inclusions in the matrix (then with fringed edges).
+
+Marcasite (≈10%): frequently occurs as idiomorphic small grains, both individually and as “nests”; less often as xenomorphic single grains. Commonly as inclusions in ZnS, less frequently in PbS. Twinning is widespread.
+
+Pyrite (≈5%): development and occurrence similar to marcasite, but more often coarse-grained xenomorphic than marcasite.
+
+Chalcopyrite (1–5%): xenomorphic single grains; occurring in PbS, ZnS and tetrahedrite-tennantite.
+
+Tetrahedrite-tennantite (1–5%): coarse-grained; occurring in ZnS, partly intergrown with PbS.
+
+Gangue (~5%): only a few undisturbed remnants in ZnS, intergrown with pyrite.
+
+Thin Section Series 2: Mineral composition ± identical to Series 1.
+
+Differences from Series 1:
+
+Sphalerite (30–40%): together with PbS and gangue forms the main matrix. ZnS:PbS ≈ 1:1.
+
+Galena (30–35%): more frayed grains in the gangue than in Series 1.
+
+Marcasite (<1%)
+
+Pyrite (<1%)
+
+Chalcopyrite (1–5%): intergrown with all remaining minerals.
+
+Tetrahedrite-tennantite (5–10%): larger grains compared to Series 1; not present in all thin sections.
+
+Gangue (20–30%)
+
+(The percentage proportion of the minerals in Thin Section Series 2 varies strongly and could therefore only be estimated imprecisely.)
+
+Literature:
+
+Hesemann: „Der Blei-Zink-Erzbezirk des Bergischen Landes (Rheinisches Schiefergebirge) als Prototyp einer frühorogenen und parallelen Vererzung“, Decheniana 131, pp. 292–299 (1978).
+(The lead-zinc ore district of the Bergisches Land (Rhenish Slate Mountains) as prototype of an early-orogenic and parallel mineralization).
+
+Lehmann: „Beitrag zur Stratigraphie des Bensberger Erzdistrikts (Bergisches Land) und ihre Beziehungen zu Blei-Zink-Erzgängen“, Festschrift M. Richter, Clausthal-Zellerfeld, 1965.
+(Contribution to the stratigraphy of the Bensberg ore district (Bergisches Land) and its relation to lead-zinc ore veins).
+
+Lehmann, Pietzner: „Der Lüderich-Gangzug und das Gangvorkommen Nikolaus Phönix im Bergischen Land“, Fortschritte in der Geologie von Rheinland und Westfalen, 17, pp. 589–664, Krefeld 1970.
+(The Lüderich vein system and the vein occurrence Nikolaus Phönix in the Bergisches Land).
+
+Schriel: „Erzführung und Tektonik im engeren Bensberger Erzdistrikt“, Neues Jahrbuch für Mineralogie, Abhandlungen 86, 2, pp. 275–307, Stuttgart 1954.
+(Ore control and tectonics in the central Bensberg ore district).
+
+Wernicke: „Beitrag zur Kenntnis des Bensberger Zink-Blei-Erzreviers“, Neues Jahrbuch für Mineralogie, Abhandlungen 93, 3, pp. 257–325, Stuttgart 1960.
+(Contribution to the knowledge of the Bensberg zinc-lead ore district).
