@@ -70,6 +70,9 @@ of the Lüderich vein system
 ![Paragenesis](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/26_Luderich/26%20Luderich%203.jpg)
 
 Mineral description:
+
+![Luderich s1](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/26_Luderich/26%20Luderich%204%201.jpg)
+
 Thin section series 1:
 
 Sphalerite (≈50%): largest proportion of the opaque ore content; mostly occurring as xenomorphic coarse grains without exsolution structures.
@@ -87,6 +90,10 @@ Tetrahedrite-tennantite (1–5%): coarse-grained; occurring in ZnS, partly inter
 Gangue (~5%): only a few undisturbed remnants in ZnS, intergrown with pyrite.
 
 Thin Section Series 2: Mineral composition ± identical to Series 1.
+
+![Luderich s1](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/26_Luderich/26%20Luderich%204%202.jpg)
+
+![Luderich legend](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/26_Luderich/26%20Luderich%20sketch%202%20legend.jpg)
 
 Differences from Series 1:
 
