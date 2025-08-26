@@ -21,6 +21,10 @@ Likewise, chalcopyrite could not be found. Both minerals are consistently regard
 
 **Texture Description:**
 
+![27 Meggen sketch 1](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/27_Meggen/27%20Meggen%20Derberz%201%20sketch.jpg)
+
+![27 Meggen legend 1](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/27_Meggen/27%20Meggen%20Derberz%201%20legend.jpg)
+
 The texture is explained by the appearance of the occurring minerals.
 
 **Pyrite:**
