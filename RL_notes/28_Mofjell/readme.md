@@ -42,6 +42,6 @@ Covellite --> C
 
 Markasite
 
-
+![Mofjell](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/28_Mofjell/28_Mofjell.jpg)
 
 Ref.: R. Saager, Dissertation
