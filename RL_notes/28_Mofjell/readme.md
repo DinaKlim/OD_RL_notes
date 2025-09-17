@@ -18,7 +18,7 @@ The host rock consists of metasediments, which occur in the almandine-amphibolit
 
 The main minerals are: Quartz, Feldspar, Mica, Amphibole, Kyanite, Garnet
 
-The metal contents were precipitated during the Caledonian folding as submarine-exhalative-sedimentary deposits and were metamorphically overprinted during the orogeny.
+Ore was precipitated during the Caledonian folding as submarine-exhalative-sedimentary deposits and was metamorphically overprinted during the orogeny.
 
 Main ore minerals:
 
