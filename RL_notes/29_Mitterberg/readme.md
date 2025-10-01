@@ -43,13 +43,17 @@ To this day, this deposit represents the largest chalcopyrite deposit in Austria
 | –            | Fahlerz II  | Fahlerz III  |
 | Quartz I     | Quartz II   | Quartz III   |
 
-**Literature:**
-
-Bernhard, J. The Mitterberg Chalcopyrite Deposit. Yearbook of Geology, B.A., 109, Vienna 1966, pp. 1–90
 
 **Chalcopyrite, Gersdorffite, Pyrite** of the chalcopyrite deposit Mitterberg/Salzburg
 
 white: Gersdorffite
 yellow: Chalcopyrite
 light-yellow: Pyrite
+
+![29_Mitterberg](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/29_Mitterberg/29_Mitterberg.jpg)
+
+**Literature:**
+
+Bernhard, J. The Mitterberg Chalcopyrite Deposit. Yearbook of Geology, B.A., 109, Vienna 1966, pp. 1–90
+
 
