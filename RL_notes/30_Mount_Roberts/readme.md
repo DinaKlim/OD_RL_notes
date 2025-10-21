@@ -31,3 +31,4 @@ Pyrite occurs as filling material in cracks of the other minerals and the matrix
 
 This rock is a pyrite sandstone that was later overprinted by metamorphism. Since rounded molybdenite is still present, the transport of the pebbles cannot have occured over a very long distance. In addition to detrital pyrite, authigenic pyrite also occurs. Sometimes, new growth zones can be distinguished from old cores. Because the formation of a pyrite sandstone can only take place under reducing conditions, its origin must be dated to the early Precambrian (approximately 3200 million years).
 
+![30 Mount Roberts](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/30_Mount_Roberts/30%20Mount%20Roberts.jpg)
