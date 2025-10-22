@@ -51,3 +51,13 @@
 [24_Letaba](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/24_Letaba/readme.md)
 
 [25_Lornex](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/25_Lornex/readme.md)
+
+[26_Luderich](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/26_Luderich/readme.md)
+
+[27_Meggen](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/27_Meggen/readme.md)
+
+[28_Mofjell](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/28_Mofjell/readme.md)
+
+[29_Mitterberg](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/29_Mitterberg/readme.md)
+
+[30_Mount_Roberts](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/30_Mount_Roberts/readme.md)
