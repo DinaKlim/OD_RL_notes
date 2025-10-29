@@ -25,6 +25,8 @@ Occurs as massive aggregates. It is easily recognizable by its green internal re
 Chalcopyrite:
 Occurs only once as tiny flakes within cuprite.
 
+![32 Okanja](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/32_Okanja/32%20Okanja%20and%20oxidized%20zone.jpg)
+
 **General information about the oxidation zone and oxidized ores**
 
 Through the weathering of sulfide deposits at the Earth's surface, “iron hats” (gossans) can form. This process takes place when sulfide ores are exposed by erosion and thus subjected to oxidation processes. During this, sulfides are oxidized to sulfates. From these sulfate waters, oxides, hydroxides, carbonates, and other compounds of heavy metals, which are poorly soluble in surface waters, can form through interaction with the surrounding rock and with substances in the groundwater.
@@ -70,9 +72,6 @@ Depending on the number of nuclei and the growth rate, the resulting precipitate
 
 Condition: very strong supersaturation causes numerous nuclei to form, which are already visible under the ultramicroscope.
 These nuclei are so closely spaced that they frequently touch each other and therefore cannot continue to grow.
-
-![32 Okanja](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/32_Okanja/32%20Okanja%20and%20oxidized%20zone.jpg)
-
 
 Texture of oxidized ores
 
