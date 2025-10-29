@@ -71,6 +71,9 @@ Depending on the number of nuclei and the growth rate, the resulting precipitate
 Condition: very strong supersaturation causes numerous nuclei to form, which are already visible under the ultramicroscope.
 These nuclei are so closely spaced that they frequently touch each other and therefore cannot continue to grow.
 
+![32 Okanja](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/32_Okanja/32%20Okanja%20and%20oxidized%20zone.jpg)
+
+
 Texture of oxidized ores
 
 The oxidized ores show characteristic textural features.
