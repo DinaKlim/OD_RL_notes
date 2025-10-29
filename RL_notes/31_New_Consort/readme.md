@@ -14,6 +14,8 @@ Ilmenite, FeTiO₃: color: gray; as small, rounded grains, partly corroded;
 
 Rutile, TiO₂: color: gray; as small, rounded grains.
 
+![31 New Consort](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/31_New_Consort/31%20New%20Consort%20Gold%20Mine.jpg)
+
 **Overview and Stratigraphy**
 
 The northeast of South Africa and most of Rhodesia are formed by two cratons — the Kaapvaal Craton and the Rhodesian Craton.
