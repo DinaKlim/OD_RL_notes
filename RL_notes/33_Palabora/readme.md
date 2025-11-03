@@ -57,6 +57,10 @@ In the transgressive carbonatite, chalcopyrite predominates over bornite and cub
 
 ### Thin section description
 
+![33 Palabora](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/33_Palabora/33%20Palabora.jpg)
+
+![33_Palabora legend](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/33_Palabora/33%20Palabora%20legend.jpg)
+
 In both thin section series, only a portion of the minerals mentioned above were found.
 
 **Foskorite samples**
