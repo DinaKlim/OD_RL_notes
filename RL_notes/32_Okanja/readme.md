@@ -5,9 +5,10 @@ The polished section of samples from the Cu ore deposit Okanja (SWA), which lies
 Cuprite:
 Occurs most frequently in the polished sections:
 
-as massive aggregates
+- as massive aggregates
 
-as fine veins
+- as fine veins
+
 Native copper: occurs as flakes within the massive cuprite.
 
 Limonite:
@@ -53,36 +54,36 @@ Zinc ores: Carbonates (smithsonite)
 
 There is also a second group of oxidized ores with more complex oxides — for example, phosphates, arsenates, chromates, antimonates, molybdates, tungstates, and uranates. These form through interaction of multiple weathering solutions.
 
-The physical state of oxidized ores
+### The physical state of oxidized ores
 
 In general: In the oxidation zone, the formation of crystal nuclei occurs both through supersaturation and through precipitation when different solutions meet.
 
 The oxidized ores, like all minerals in the weathering zone, occur in three physical states:
 
-**As distinctly crystalline minerals**
+**1. As distinctly crystalline minerals**
 
 Condition: very slight but continuous supersaturation produces few nuclei, which continue to grow at a high growth rate.
 
-**As cryptocrystalline, single-phase dense or earthy mineral aggregates**
+**2. As cryptocrystalline, single-phase dense or earthy mineral aggregates**
 
 Condition: strong supersaturation produces many closely spaced nuclei that grow rapidly until they collide.
 Depending on the number of nuclei and the growth rate, the resulting precipitate is microcrystalline to cryptocrystalline.
 
-**As submicroscopic, heterogeneous, dispersed, or colloidal minerals (so-called gel ores)**
+**3. As submicroscopic, heterogeneous, dispersed, or colloidal minerals (so-called gel ores)**
 
 Condition: very strong supersaturation causes numerous nuclei to form, which are already visible under the ultramicroscope.
 These nuclei are so closely spaced that they frequently touch each other and therefore cannot continue to grow.
 
-Texture of oxidized ores
+### Texture of oxidized ores
 
 The oxidized ores show characteristic textural features.
 As a result of dissolution processes, these include:
 
-Porous, cavernous, and drusy textures
+1. Porous, cavernous, and drusy textures
 
-Layered or crust textures, resulting from successive cycles of dissolution and reprecipitation
+2. Layered or crust textures, resulting from successive cycles of dissolution and reprecipitation
 
-Vein structures, the most widespread texture type. These form when numerous secondary, mostly coarser-grained crystals produced by later alteration intersect and penetrate the earlier oxidation products in a network of veins.
+3. Vein structures, the most widespread texture type. These form when numerous secondary, mostly coarser-grained crystals produced by later alteration intersect and penetrate the earlier oxidation products in a network of veins.
 When stronger solvents later act on such masses, the groundmass is mostly dissolved out, leaving the veins intact and producing vuggy or chambered textures.
 
 Additionally, there are stalactitic, botryoidal (grape-like), reniform (kidney-shaped), and globular forms.
