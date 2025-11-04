@@ -16,6 +16,8 @@ The segregated ore in the hanging wall occurs in serpentinized dunite as pentlan
 The sulfide ore from Perseverance consists mainly of pyrrhotite and chalcopyrite. Small amounts of sphalerite, mackinawite, arsenopyrite, and occasionally pentlandite also occur.
 The mineral grains vary in size and are irregularly distributed. They generally show xenomorphic grain shapes and are randomly oriented.
 
+![34_Perseverance](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/34_Perseverance/34%20Perseverance.jpg)
+
 Pyrrhotite (FeS–Fe₁₁S₁₂) forms a primary exsolution with chalcopyrite (CuFeS₂) and shows incipient decomposition along fissures.
 At the grain boundaries between pyrrhotite and chalcopyrite, mackinawite (Fe₁₊ₓS) can be observed.
 
