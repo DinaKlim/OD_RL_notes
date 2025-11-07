@@ -1,7 +1,9 @@
 ## Ore Microscopy Advanced Assignment
 
 **Name:** Pia Frings
+
 **Topic:** Thin section series PA and PU
+
 **Outline:**
 
 1. Geological overview of the area
@@ -14,6 +16,9 @@
 
 The two thin-section series come from ore deposits in the Seengebirge area between Lago Maggiore and Lago di Como.
 The mountain range is composed of gneisses of unknown age. The last metamorphic overprint is older than the Westphalian.
+
+![35 Ponte Arano 1](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/35_Ponte_Arano_Pura/35%20Ponte%20Aranno%20Pura%201.jpg)
+
 The Caslano–Taverne dislocation zone divides the Seengebirge into two tectonically and petrographically distinct units.
 The more southerly Val Colla Zone has been thrust over the Ceneri Zone along the Caslano–Taverne dislocation zone. This thrusting took place in the Late Carboniferous.
 
@@ -78,6 +83,8 @@ Three vein formation phases have been identified.
 * Barite
 * Calcite
 
+![35 Ponte Arano 2](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/35_Ponte_Arano_Pura/35%20Ponte%20Aranno%20Pura%202.jpg)
+
 **Thin Section Description**
 
 Sphalerite (Zinkblende):
@@ -107,6 +114,10 @@ According to a theory proposed by J. Burford, these ore blocks may have originat
 However, the main argument against this theory is that no other erratic material from that region has been discovered in the area.
 
 **Thin Section Description**
+
+![35 Ponte Arano 3](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/35_Ponte_Arano_Pura/35%20Ponte%20Aranno%20Pura%203.jpg)
+
+![35 Ponte Arano 4](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/35_Ponte_Arano_Pura/35%20Ponte%20Aranno%20Pura%204.jpg)
 
 Pyrite:
 
