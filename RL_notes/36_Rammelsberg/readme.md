@@ -73,6 +73,8 @@ Very Rare Minerals:
 Arsenopyrite, Bismuthinite, Valleriite, Linnaeite, Gudmundite,
 Molybdenite, Wolframite, Gold
 
+![36 Rammbelsberg](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/36_Rammelsberg/36%20Rammelsberg.jpg)
+
 The following minerals were identified in the thin sections:
 
 S = Sericite (as gangue mineral),
@@ -85,8 +87,8 @@ G = Gold
 
 ### References:
 
-Emil Kraume, 1955, Hannover
+Emil Kraume, 1955, Hannover. 
 Die Erzlager des Rammelsberg bei Goslar
 
-Erzmetall 1/81, G. Gunzert
+Erzmetall 1/81, G. Gunzert. 
 Das "Hangende Erzvorkommen" in der Lagerstätte am Rammelsberg bei Goslar
