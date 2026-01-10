@@ -116,6 +116,8 @@ The identification of the mineral interpreted here as jamesonite is not unequivo
 
 Jamesonite was found in only two out of six samples.
 
+![37 Ramsbeck 2](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/37_Ramsbeck/37%20Ramsbeck%202.jpg)
+
 ### Literature
 
 Beck, R.: Lehre von den Erzlagerstätten (1909)
