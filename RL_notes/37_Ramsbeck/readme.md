@@ -116,9 +116,29 @@ The identification of the mineral interpreted here as jamesonite is not unequivo
 
 Jamesonite was found in only two out of six samples.
 
+**Gangue (Quartz, Carbonate):**
+
+The quartz crystals occur in a wide range of sizes, ranging from a few micrometers up to a few millimeters.
+
+The lobate and/or tooth-like boundaries between the individual gangue grains and the ore minerals, as well as the very fine quartz particles occurring within the ore, additionally impair ore processing. It was determined that even at the smallest grain sizes, it was not possible to obtain even approximately pure ore.
+
 ![37 Ramsbeck 2](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/37_Ramsbeck/37%20Ramsbeck%202.jpg)
 
+
 ### Literature
+
+Bauer, G., Ebert, A. & Scherp, A.:
+The lead–zinc deposits of Ramsbeck and surroundings.
+Monograph of German Pb–Zn deposits, Vol. 6.
+Geologisches Jahrbuch, Series D, Issue 33, Hannover, 1979.
+
+Behren, F. & Paeckelmann, W.:
+The geological structure and the ore deposits of the Ramsbeck ore district.
+Archiv für Lagerstättenforschung, Vol. 64, Berlin, 1934.
+
+Scherp, A.:
+The dense ores of the lead–zinc deposit Ramsbeck in the Sauerland.
+Erzmetall, Vol. 11, Stuttgart, 1958.
 
 Beck, R.: Lehre von den Erzlagerstätten (1909)
 
