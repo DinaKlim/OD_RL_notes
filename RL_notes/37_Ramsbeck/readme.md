@@ -28,6 +28,7 @@ In some sections, rare **gold-yellow, distinctly anisotropic millerite needles**
 Based on microprobe measurements, the identification of these minerals was confirmed.
 The galena intergrowths contain grains of **ullmannite, gersdorffite, violarite**, or **linnaeite**, though they were too small for exact analysis.
 
+![37 Ramsbeck](https://github.com/DinaKlim/OD_RL_notes/blob/main/RL_notes/37_Ramsbeck/37%20Ramsbeck%201.jpg)
 Py – Pyrargyrit (pyrargyrite) – Ag₃SbS₃
 
 Bl – Bleiglanz (galena) – PbS
@@ -76,10 +77,18 @@ Scherp (1958) distinguishes three phases of ore formation.
 a) A cata- to mesothermal pre-phase, presumably of Bretonnian age, with a quartz–siderite–pyrite–arsenopyrite mineralisation.
 The deposition of these ore solutions took place in the veins that formed during the tectonic stress of the host rock during the Variscan folding.
 
-b) The epi- to mesothermal main phase, with a quartz–galena–sphalerite–chalcopyrite mineralisation.
+b) The epi- to mesothermal main phase, with a quartz–galena–sphalerite–chalcopyrite mineralisation of Asturian age.
+It was interrupted by the formation of the so-called “dense ores” (“Dichterze”), which developed through very shallow overthrust movements, and was divided into two sections.
 
-Reflections are only rarely observed.
-Conspicuous are the numerous disturbance features and breakout marks in the sphalerite.
+Only the mineralisation of this phase proved to be economically exploitable.
+
+c) A telethermal late phase of Tertiary age, which is responsible for the mineralisation of cross-fractures. This mineralisation is attributed to an ascending mobilisation from deeper-lying Devonian, stratabound lead–zinc ores.
+
+## Polished section description
+
+**Sphalerite (zincblende):**
+
+All samples available consist mainly of sphalerite and galena, which are intimately intergrown with each other. Sphalerite makes up the largest proportion of the ore minerals. As the groundmass of the ore, it encloses all other mineral components. Internal reflections are only rarely observed. Conspicuous are the numerous disturbance features and breakouts in the sphalerite.
 
 **Galena:**
 
@@ -93,13 +102,19 @@ Not only with sphalerite, but also with the gangue, galena is partially intensel
 
 The pyrite grains occur in very different sizes. Individual crystals, a few millimetres in size, show corrosion features at their edges and are often strongly fractured. At the fracture surfaces, sphalerite replaces the pyrite.
 
-… [continuation from previous page] …
+More frequent than the rare large crystals are small, idiomorphically developed pyrite crystals, which are always enclosed by sphalerite.
 
-… pyrite-arsenopyrite mineralisation of Asturian age.
-It was interrupted and divided into two sections by the formation of the so-called "dense ores" (“Dichterze”), which formed due to very shallow overthrust movements.
-Only the mineralisation of this phase proved to be economically exploitable.
+**Chalcopyrite:**
 
-c) A telethermal late phase of Tertiary age, which is responsible for the mineralisation of cross-fractures. This mineralisation is attributed to an ascending mobilisation from deeper-lying Devonian, stratabound lead-zinc ores.
+In terms of quantity, chalcopyrite plays a subordinate role (less than 1 vol%). It occurs characteristically as small exsolution blebs within the sphalerite. Larger aggregates do not occur.
+
+**Jamesonite (Pb₄FeSb₂S₈):**
+
+Even rarer, but more conspicuous than chalcopyrite because of its strong anisotropy, is jamesonite. It is frequently developed as streaky aggregates and is usually found in direct association with galena. However, jamesonite also forms grain boundaries with the gangue.
+
+The identification of the mineral interpreted here as jamesonite is not unequivocal with certainty; differentiation from boulangerite (Pb₅Sb₄S₁₁) was not straightforward.
+
+Jamesonite was found in only two out of six samples.
 
 ### Literature
 
