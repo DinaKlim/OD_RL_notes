@@ -46,9 +46,46 @@ Ore formation is element enrichment. Trace elements need to be collected from bi
 **Metal solubility** is the main limiting factor in terms of the source for most sediment-hosted mineral systems.
 
 Solubilities of the base metal sulfides vary by orders of magnitude.
+
 Ore-forming factors are a combination of physics and chemistry. Further discussion will focus on the source region and the point that getting the metals in solution is the most serious constraint in making an ore-forming hydrothermal system. And the reason is that metal solubilities vary by huge numbers of orders of magnitudes. 
+
+![Metal solubility](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%202%20images/Solubility%20T.JPG)
 
 [Fontboté, L., Kouzmanov, K., Chiaradia, M., & Pokrovski, G. S. (2017). Sulfide minerals in hydrothermal deposits. Elements, 13(2), 97-103.](https://www.researchgate.net/publication/316092040_Sulfide_Minerals_in_Hydrothermal_Deposits)
 
+Solubility, or the possibility to get the metals from the source region into the solution that will transport the metals to the deposition site, is the key SOURCE limiting factor. It depends on four key variables:
 
+* Salinity
+* Acidity
+* Redox
+* Temperature
 
+There are so many different factors that all influence solubility, and all in different direction. Since it is a multicomponent problem, there is metal sulfide, it depends not only on one chemical element, but also other chemical elements in the system, which always includes rocks and minerals on one hand and the fluid on the other hand. Salinity, acidity, pH, redox and T are are the source variables that determine whether it will be possible to create the ore-bearing fluid.
+
+**Why do salty fluids transport base metals?** 
+
+Reason 1:
+
+CHLORIDE COMPLEX FORMATION
+
+PbS + 2 H⁺ = Pb²⁺ + H₂S
+
+K (250 °C) = [Pb²⁺] · [H₂S] / [H⁺]² = 0.01
+
+This reaction describes acid-promoted dissolution of galena (PbS).
+
+Activities of pure solids (PbS) are taken as 1, so they do not appear in the expression.
+
+A small equilibrium constant (K = 0.01) means the reaction is not strongly product-favored: without chloride, PbS dissolves only modestly.
+
+In the presence of chloride, equilibrium constant is 100. Pb²⁺ does not remain as a free ion, but forms a chloride complex (represented here as PbCl₂). Complex formation removes Pb²⁺ from solution in its free form.
+
+According to Le Châtelier’s principle, removing a product (Pb²⁺) drives more PbS dissolution.
+
+PbS + 2 H⁺ + 2 Cl⁻ = PbCl₂ + H₂S
+
+K (250 °C) = [PbCl₂] · [H₂S] / ([H⁺]² · [Cl⁻]²) = 100
+
+Galena solubility up 10,000-fold in seawater-salinity fluid, compared with pure water of same pH.
+
+**Second reason why saline, rock-buffered fluids are better at transporting base metals** (rock buffered means in equilibrium with the feldspar, mica/clay and quartz)
