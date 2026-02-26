@@ -48,6 +48,7 @@ Ore formation is element enrichment. Trace elements need to be collected from bi
 Solubilities of the base metal sulfides vary by orders of magnitude.
 Ore-forming factors are a combination of physics and chemistry. Further discussion will focus on the source region and the point that getting the metals in solution is the most serious constraint in making an ore-forming hydrothermal system. And the reason is that metal solubilities vary by huge numbers of orders of magnitudes. 
 
+[Fontboté, L., Kouzmanov, K., Chiaradia, M., & Pokrovski, G. S. (2017). Sulfide minerals in hydrothermal deposits. Elements, 13(2), 97-103.](https://www.researchgate.net/publication/316092040_Sulfide_Minerals_in_Hydrothermal_Deposits)
 
 
 
