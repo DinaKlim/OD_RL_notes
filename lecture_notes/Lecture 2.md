@@ -101,6 +101,7 @@ K-spar --------- albite
 Fluids are in contact with crustal rocks, which contain KFS and micas. NaCl is the dominant salt in the fluid. It is in contact with FSp (plagioclase and intermediate sodic plagioclase which we can approximate with albite). As shown by the equation, the more Na you have in the fluid, the more K you will need to have in the fluid: it is an equilibrium, you push one up, the other need to go up too. If we have high K concentrations, another chemical reaction kicks in. 
 
 KAl₃Si₃O₁₀(OH)₂ + 6 SiO₂ + 2 K⁺ = 3 KAlSi₃O₈ + 2 H⁺
+
 muscovite ------------------------ K-spar
 
 The reaction shown is fundamentally an exchange reaction in which aluminum is conserved. This is important because Al is among the least soluble major rock-forming elements under most crustal conditions. As a result, reactions involving feldspars and micas tend to redistribute Al among solid phases rather than transfer it into solution. The fluid phase instead accommodates changes in the more mobile components (K⁺, Na⁺, H⁺, OH⁻).
@@ -135,3 +136,5 @@ The key conclusion is:
 When saline (Cl-rich) fluids equilibrate with dominant crustal minerals, alkali exchange reactions generate H⁺. Therefore, salty fluids are intrinsically acid fluids under rock-buffered equilibrium conditions.
 
 This is a thermodynamic consequence of mineral–fluid exchange equilibria, not simply an incidental property of dissolved salts.
+
+
