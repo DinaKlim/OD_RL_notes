@@ -89,3 +89,49 @@ K (250 °C) = [PbCl₂] · [H₂S] / ([H⁺]² · [Cl⁻]²) = 100
 Galena solubility up 10,000-fold in seawater-salinity fluid, compared with pure water of same pH.
 
 **Second reason why saline, rock-buffered fluids are better at transporting base metals** (rock buffered means in equilibrium with the feldspar, mica/clay and quartz)
+
+SALTY FLUIDS ARE ACID FLUIDS
+
+High Cl⁻ in rock-buffered fluids means high Na⁺ and high K⁺
+
+KAlSi₃O₈ + Na⁺ = NaAlSi₃O₈ + K⁺
+
+K-spar --------- albite
+
+Fluids are in contact with crustal rocks, which contain KFS and micas. NaCl is the dominant salt in the fluid. It is in contact with FSp (plagioclase and intermediate sodic plagioclase which we can approximate with albite). As shown by the equation, the more Na you have in the fluid, the more K you will need to have in the fluid: it is an equilibrium, you push one up, the other need to go up too. If we have high K concentrations, another chemical reaction kicks in. 
+
+KAl₃Si₃O₁₀(OH)₂ + 6 SiO₂ + 2 K⁺ = 3 KAlSi₃O₈ + 2 H⁺
+muscovite ------------------------ K-spar
+
+The reaction shown is fundamentally an exchange reaction in which aluminum is conserved. This is important because Al is among the least soluble major rock-forming elements under most crustal conditions. As a result, reactions involving feldspars and micas tend to redistribute Al among solid phases rather than transfer it into solution. The fluid phase instead accommodates changes in the more mobile components (K⁺, Na⁺, H⁺, OH⁻).
+
+The earlier reaction between K-feldspar (KAlSi₃O₈) and albite (NaAlSi₃O₈) is a classic alkali exchange reaction, where Na⁺ and K⁺ are exchanged between fluid and feldspar while the Al–Si framework remains intact. Aluminum is conserved in the solid structure, and only the alkali cations are redistributed.
+
+The muscovite–K-feldspar reaction follows the same general principle but involves hydrogen as an additional exchange component:
+
+
+Here:
+
+Muscovite contains structurally bound OH groups.
+
+K-feldspar is OH-free.
+
+The reaction exchanges K⁺ from the fluid for H⁺ released to the fluid.
+
+Aluminum remains entirely in solid phases.
+
+In compositional terms, this is an exchange between:
+
+A hydrous mineral with relatively lower K/Al (muscovite),
+
+And an anhydrous mineral with higher K/Al (K-feldspar).
+
+As fluid K⁺ activity increases, the equilibrium shifts to the right. This produces additional H⁺ in solution, thereby lowering pH. In other words, elevated K⁺ concentrations in saline fluids promote reactions that generate acidity.
+
+Because high Cl⁻ fluids in rock-buffered systems imply high Na⁺ and K⁺ concentrations (charge balance constraints in saline brines), such fluids tend to shift feldspar–mica equilibria toward H⁺ production.
+
+The key conclusion is:
+
+When saline (Cl-rich) fluids equilibrate with dominant crustal minerals, alkali exchange reactions generate H⁺. Therefore, salty fluids are intrinsically acid fluids under rock-buffered equilibrium conditions.
+
+This is a thermodynamic consequence of mineral–fluid exchange equilibria, not simply an incidental property of dissolved salts.
