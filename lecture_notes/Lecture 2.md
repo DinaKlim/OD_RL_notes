@@ -53,6 +53,8 @@ Ore-forming factors are a combination of physics and chemistry. Further discussi
 
 [Fontboté, L., Kouzmanov, K., Chiaradia, M., & Pokrovski, G. S. (2017). Sulfide minerals in hydrothermal deposits. Elements, 13(2), 97-103.](https://www.researchgate.net/publication/316092040_Sulfide_Minerals_in_Hydrothermal_Deposits)
 
+``¯\_(ツ)_/¯`` what in the name of Gibbs does this phrase "sulphur and O2 buffered by pyrite - hematite - magnetite" mean? Does this mean that the rock has an infinite reservoir of all of those three phases? Apparently not. “Buffered by py–mt–hm” means that the oxygen fugacity (fO₂) and sulfur fugacity (fS₂) of a fluid are controlled by equilibrium with the mineral assemblage pyrite (FeS₂), magnetite (Fe₃O₄), and hematite (Fe₂O₃). At a given temperature, reactions among these minerals fix specific redox conditions, so the fluid adjusts its O and S activities to remain in equilibrium with the solids. This does not require infinite amounts of these minerals; it simply means the rock contains sufficient quantities relative to the fluid (i.e., a high rock/fluid ratio) so that mineral reactions can proceed without depleting either phase. In geological terms, the redox state of the fluid is determined by the host rock mineralogy rather than by the fluid’s initial composition. For a deeper dive into activity / fugacity /partial molar Gibbs free energy, there are [notes from James Connolly's thermodynamics course at the ETH Zurich](https://www.perplex.ethz.ch/thermo_course/thermo_course.pdf). Pythonizing the problems and solutions from this course in on my bucket list. 
+
 Solubility, or the possibility to get the metals from the source region into the solution that will transport the metals to the deposition site, is the key SOURCE limiting factor. It depends on four key variables:
 
 * Salinity
@@ -110,7 +112,6 @@ The earlier reaction between K-feldspar (KAlSi₃O₈) and albite (NaAlSi₃O₈
 
 The muscovite–K-feldspar reaction follows the same general principle but involves hydrogen as an additional exchange component:
 
-
 Here:
 
 Muscovite contains structurally bound OH groups.
@@ -136,5 +137,94 @@ The key conclusion is:
 When saline (Cl-rich) fluids equilibrate with dominant crustal minerals, alkali exchange reactions generate H⁺. Therefore, salty fluids are intrinsically acid fluids under rock-buffered equilibrium conditions.
 
 This is a thermodynamic consequence of mineral–fluid exchange equilibria, not simply an incidental property of dissolved salts.
+
+![Two PH buffer](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%202%20images/two%20PH%20buffer.jpg)
+
+This diagram applies to granites, arkosic sediments, and any rocks containing quartz, feldspars, muscovite, and illite (illite being the low-temperature form of muscovite).
+
+It is a plot of Temperature vs. log(K⁺/H⁺).
+
+Because:
+
+log(K⁺/H⁺) = log K⁺ − log H⁺
+pH = −log H⁺
+
+for a given K⁺ concentration, increasing log(K⁺/H⁺) corresponds approximately to increasing pH.
+
+Left side  → low log(K⁺/H⁺) → high H⁺ → low pH → acidic  
+Right side → high log(K⁺/H⁺) → low H⁺ → higher pH → neutral to alkaline  
+
+The exact numerical values are not important; the diagram shows relative stability fields.
+
+**Feldspar–Muscovite Buffer (Granite / Arkose Buffer)**
+
+KAlSi₃O₈ + H⁺ = KAl₃Si₃O₁₀(OH)₂ + SiO₂ + K⁺
+
+K-feldspar + H⁺ = muscovite + quartz + K⁺
+
+This is an exchange reaction between K⁺ and H⁺.
+
+K-feldspar (KAlSi₃O₈) is OH-free and relatively K-rich.  
+Muscovite (KAl₃Si₃O₁₀(OH)₂) contains structural OH.  
+
+Increasing H⁺ drives the reaction to the right (more muscovite).  
+Increasing K⁺ drives it to the left (more K-feldspar).  
+
+Under more neutral to mildly alkaline conditions, the stable assemblage is:
+
+quartz + K-feldspar + muscovite
+
+This assemblage buffers the pH of fluids in granites and arkosic sediments.
+
+**Muscovite–Kaolinite Buffer (Clay Buffer)**
+
+Schematic reaction:
+
+muscovite + H⁺ = kaolinite + K⁺
+
+More explicitly (simplified form):
+
+KAl₃Si₃O₁₀(OH)₂ + H⁺ → Al₂Si₂O₅(OH)₄ + K⁺ + SiO₂
+
+Muscovite still contains significant K.  
+Kaolinite (Al₂Si₂O₅(OH)₄) is a clay mineral with very low K.  
+
+Higher H⁺ concentration is required to destabilize muscovite and form kaolinite.  
+Therefore, this reaction lies further on the acidic (low-pH) side.
+
+At sufficiently high acidity, clay minerals buffer the pH.  
+At more neutral conditions, muscovite + feldspars buffer the pH.
+
+Crustal rocks buffer the pH of fluids that are in equilibrium with them.
+
+There are two main pH-buffer regimes:
+
+* Clay mineral buffer (kaolinite ± illite) → lower pH
+  
+* Granite/arkose buffer (quartz + K-feldspar + muscovite) → neutral to mildly alkaline pH  
+
+These buffering systems have a strong effect on metal solubility.  
+Small shifts in mineral assemblage can produce large changes in fluid acidity and therefore metal mobility.
+
+Example – comparison:
+
+CANNING BASIN Mississippi Valley Type PbZn
+
+McARTHUR RIVER Stratiform PbZn at H.Y.C.
+
+Similar total metal tonnage
+
+Similar geochemical problem:
+PbS solubility at source
+
+Are Pb, Zn and H₂S transported in single ore fluid?
+
+The following is just an illustration of how big this effect is of different buffer conditions where you have got pH for a given salinity, and the question is how to make a Pb-Zn deposits. Two settings, Canning basin MVT type and McArthur river, stratiform Pb Zn deposit. In total there is about the same amount of Pb and Zn there, and it is the same challenge, how do you get enough Pb in solution? 
+We can make a simplifying assumption that Pb is contained in galena (PbS). Let us explore what is required to make Pb Zn and H2S transported by one fluid and precipitated there. 
+
+![Cadjebut](https://www.mineralienatlas.de/VIEWmaxFULL.php/param/1489316307-Schalenblende-Galenit-Galenit-Schalenblende.jpg)
+
+Source: www.mineralienatlas.de
+
 
 
