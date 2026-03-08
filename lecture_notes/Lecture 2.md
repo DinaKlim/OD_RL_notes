@@ -233,7 +233,11 @@ This, by contrast, is sedex (sedimentary-exhalative), and we saw that these squi
 
 ![Pb and Zn solubility](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%202%20images/Pb%20and%20Zn%20solubility.jpg)
 
+In Western Australia, the deeper part of the basin contains evaporates, clay sediments and some carbonates. It is possible to make an assumption that those fluids have been much more acid. The rock at the deposition site being dissolved and collapse within the breccia is consistent with fluids being acid as they come into the deposit. On a log scale here, the solubility on the assumption of the other pH buffer is 1-2 order of magnitude higher, and it gets especially much higher at lower T, with the effect that it's possible to get the same 10 ppm Pb Zn under those pH assumptions at 120 to 140 degrees as opposed to more than 200 degrees if Fsp are limiting the pH. The more acid fluids allow this deposit to form at lower T at otherwise similar assumptions. 
 
+As a reminder, metal soliblity depends on salinity, acidity, redox and temperature. This pH buffering effect of crustal fluids is really fundamental and important parameter, one of the key variables. Acidity and salinity are coupled. 
+
+Temperature: 
 
 
 
