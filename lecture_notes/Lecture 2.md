@@ -208,14 +208,11 @@ Small shifts in mineral assemblage can produce large changes in fluid acidity an
 
 Example – comparison:
 
-CANNING BASIN Mississippi Valley Type PbZn
+* CANNING BASIN Mississippi Valley Type PbZn
 
-McARTHUR RIVER Stratiform PbZn at H.Y.C.
+* McARTHUR RIVER Stratiform PbZn at H.Y.C.
 
-Similar total metal tonnage
-
-Similar geochemical problem:
-PbS solubility at source
+Similar total metal tonnage. Similar geochemical problem: PbS solubility at source
 
 Are Pb, Zn and H₂S transported in single ore fluid?
 
