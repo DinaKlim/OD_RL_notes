@@ -223,5 +223,13 @@ We can make a simplifying assumption that Pb is contained in galena (PbS). Let u
 
 Source: www.mineralienatlas.de
 
+![Cadjebut breccia](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%202%20images/Cadjebut%20breccia.JPG)
+
+This sample comes from a MVT valley deposit from Western Australia, and a similar rock is included in the study collection, rock series D, where a bit of sediment truncated by the breccia, and rafts of sediments are present inside. This is something epigenetic, something that overprints already consolidated limestones and marls.
+
+
+
+
+
 
 
