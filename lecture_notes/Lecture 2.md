@@ -227,6 +227,9 @@ Source: www.mineralienatlas.de
 
 This sample comes from a MVT valley deposit from Western Australia, and a similar rock is included in the study collection, rock series D, where a bit of sediment truncated by the breccia, and rafts of sediments are present inside. This is something epigenetic, something that overprints already consolidated limestones and marls.
 
+[HYC turbidite breccia](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%202%20images/HYC%20breccia.jpg)
+
+This, by contrast, is sedex (sedimentary-exhalative), and we saw that these squishy clasts were mixed with consolidated polymictic turbidite breccia, which proves that this was in the process of forming when this happened to drop in from the side.
 
 
 
