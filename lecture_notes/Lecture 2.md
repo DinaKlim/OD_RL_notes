@@ -231,6 +231,8 @@ This sample comes from a MVT valley deposit from Western Australia, and a simila
 
 This, by contrast, is sedex (sedimentary-exhalative), and we saw that these squishy clasts were mixed with consolidated polymictic turbidite breccia, which proves that this was in the process of forming when this happened to drop in from the side.
 
+![Pb and Zn solubility](https://github.com/DinaKlim/OD_RL_notes/blob/main/lecture_notes/Lecture%202%20images/Pb%20and%20Zn%20solubility.jpg)
+
 
 
 
